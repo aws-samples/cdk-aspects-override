@@ -2,4 +2,4 @@
 [main]	INFO	profile exclude tests: None
 [main]	INFO	cli include tests: None
 [main]	INFO	cli exclude tests: None
-[json]	INFO	JSON output written to file: /tmp/tmp97i09zt2/bandit_report.json
+[json]	INFO	JSON output written to file: /tmp/tmpgpgm9t3v/bandit_report.json

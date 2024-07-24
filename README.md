@@ -10,7 +10,7 @@ This is an example project for demonstrating the use of CDK Aspects to override 
 ## Setting up the project
 
 * Clone this repository locally and navigate to the project directory.
-* Run `npm install` to install the project dependencies.
+* Run `npm ci` to install the project dependencies.
 
 ## Project structure
 
