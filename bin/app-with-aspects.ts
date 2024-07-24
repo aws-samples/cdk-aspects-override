@@ -1,6 +1,8 @@
 import * as cdk from 'aws-cdk-lib';
+import { AwsSolutionsChecks, NagSuppressions } from "cdk-nag";
 import { ExampleStack1, ExampleStack2 } from '../lib/example-stacks';
 import { RoleNamingConventionAspect } from '../lib/aspects';
+
 
 const app = new cdk.App();
 
@@ -12,6 +14,9 @@ const roleNamingConventionAspect = new RoleNamingConventionAspect(ROLE_NAME_PREF
 
 // Apply the aspect to the entire app
 cdk.Aspects.of(app).add(roleNamingConventionAspect);
+
+// Enable CDK NAG checks for the entire app
+cdk.Aspects.of(app).add(new AwsSolutionsChecks({ verbose: true }));
 
 new ExampleStack1(app, 'ExampleStack1WithAspects', {
   stackName: 'example-stack1-with-aspects',

@@ -1,5 +1,6 @@
 import * as cdk from 'aws-cdk-lib';
 import * as lambda from 'aws-cdk-lib/aws-lambda';
+import {NagSuppressions } from "cdk-nag";
 import { Construct } from 'constructs';
 
 // Define a new construct for an example Lambda function
@@ -10,7 +11,7 @@ export class HelloWorldLambda extends Construct {
     super(scope, id);
 
     this.fn = new lambda.Function(this, 'LambdaFunction', {
-      runtime: lambda.Runtime.NODEJS_18_X,
+      runtime: lambda.Runtime.NODEJS_20_X,
       handler: 'index.handler',
       code: lambda.Code.fromInline(`
         exports.handler = async (event) => {
@@ -22,11 +23,25 @@ export class HelloWorldLambda extends Construct {
         };
       `),
     });
+
+    // Call the method to suppress CDK NAG warnings for the Lambda function's role
+    this.suppressRoleWarnings();
+  }
+
+  private suppressRoleWarnings(): void {
+    if (!this.fn.role) {
+      throw new Error('Lambda function role is undefined');
+    }
+    NagSuppressions.addResourceSuppressions(this.fn.role, [
+      {
+        id: 'AwsSolutions-IAM4',
+        reason: 'Allow managed policy for default role'
+      },
+    ]);
   }
 
   // Getter to expose the Lambda function's role name
   public get roleName(): string {
-    // Ensure the function's role is defined before trying to access its name
     if (!this.fn.role) {
       throw new Error('Lambda function role is undefined');
     }
