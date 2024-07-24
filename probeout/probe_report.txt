@@ -1,0 +1,729 @@
+
+        Probe Findings
+
+        Jobs run: checkov, cfn_nag, bandit, cdk_nag_detect, semgrep
+        Total findings: 72
+
+        ======================
+
+        
+            Finding date:  2024-07-24 09:36:27.524857
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/CdkAspectsOverrideExampleStack1.template.json,
+            Line: 93,
+            Message: CKV_AWS_117: Ensure that AWS Lambda function is configured inside a VPC
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.526314
+            Job name: semgrep
+            Severity: WARNING
+            Filename: /src/package.json,
+            Line: 19,
+            Message: Rule ID: package-dependencies-check Message: Package dependencies with variant versions may lead to dependency hijack and confusion attacks. Better to specify an exact version or use package-lock.json for a specific version of the package.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525753
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/helm/__init__.py,
+            Line: 23,
+            Message: B603: subprocess call - check for execution of untrusted input.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524713
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack1WithoutAspects.template.json,
+            Line: 109,
+            Message: CKV_AWS_116: Ensure that AWS Lambda function is configured for a Dead Letter Queue(DLQ)
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524737
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack1WithoutAspects.template.json,
+            Line: 109,
+            Message: CKV_AWS_117: Ensure that AWS Lambda function is configured inside a VPC
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.526212
+            Job name: semgrep
+            Severity: INFO
+            Filename: /src/README.md,
+            Line: 13,
+            Message: Rule ID: use-frozen-lockfile-npm Message: To ensure reproducible and deterministic builds, use `npm ci` rather than `npm install` in scripts. This will use the lockfile rather than updating it.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525692
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/get/__init__.py,
+            Line: 28,
+            Message: B603: subprocess call - check for execution of untrusted input.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525966
+            Job name: bandit
+            Severity: WARNING
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-s3-deployment/bucket-deployment-handler/index.py,
+            Line: 272,
+            Message: B310: Audit url open for permitted schemes. Allowing use of file:/ or custom schemes is often unexpected.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524869
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack1WithAspects.template.json,
+            Line: 38,
+            Message: CKV_AWS_116: Ensure that AWS Lambda function is configured for a Dead Letter Queue(DLQ)
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524574
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/CdkAspectsOverrideExampleStack2.template.json,
+            Line: 37,
+            Message: CKV_AWS_116: Ensure that AWS Lambda function is configured for a Dead Letter Queue(DLQ)
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525855
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/helm/__init__.py,
+            Line: 193,
+            Message: B603: subprocess call - check for execution of untrusted input.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525306
+            Job name: cfn_nag
+            Severity: ERROR
+            Filename: ENTIRE_REPO,
+            Line: 0,
+            Message: CUSTOM: This repo contains malformed Cloudformation causing cfn_nag to fail with an exception.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525930
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-s3-deployment/bucket-deployment-handler/index.py,
+            Line: 6,
+            Message: B404: Consider possible security implications associated with the subprocess module.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524834
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/CdkAspectsOverrideExampleStack1.template.json,
+            Line: 93,
+            Message: CKV_AWS_116: Ensure that AWS Lambda function is configured for a Dead Letter Queue(DLQ)
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525991
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-stepfunctions-tasks/role-policy-handler/index.py,
+            Line: 1,
+            Message: B404: Consider possible security implications associated with the subprocess module.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.526272
+            Job name: semgrep
+            Severity: WARNING
+            Filename: /src/package.json,
+            Line: 16,
+            Message: Rule ID: package-dependencies-check Message: Package dependencies with variant versions may lead to dependency hijack and confusion attacks. Better to specify an exact version or use package-lock.json for a specific version of the package.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524823
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/CdkAspectsOverrideExampleStack1.template.json,
+            Line: 37,
+            Message: CKV_AWS_117: Ensure that AWS Lambda function is configured inside a VPC
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524725
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack1WithoutAspects.template.json,
+            Line: 109,
+            Message: CKV_AWS_115: Ensure that AWS Lambda function is configured for function-level concurrent execution limit
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524639
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack2WithoutAspects.template.json,
+            Line: 45,
+            Message: CKV_AWS_116: Ensure that AWS Lambda function is configured for a Dead Letter Queue(DLQ)
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525778
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/helm/__init__.py,
+            Line: 58,
+            Message: B603: subprocess call - check for execution of untrusted input.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525790
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/helm/__init__.py,
+            Line: 81,
+            Message: B101: Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524903
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack1WithAspects.template.json,
+            Line: 95,
+            Message: CKV_AWS_116: Ensure that AWS Lambda function is configured for a Dead Letter Queue(DLQ)
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.526259
+            Job name: semgrep
+            Severity: INFO
+            Filename: /src/lib/example-stacks.ts,
+            Line: 16,
+            Message: Rule ID: missing-template-string-indicator Message: This looks like a JavaScript template string. Are you missing a '$' in front of '{...}'?
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524689
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack1WithoutAspects.template.json,
+            Line: 45,
+            Message: CKV_AWS_115: Ensure that AWS Lambda function is configured for function-level concurrent execution limit
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525869
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/patch/__init__.py,
+            Line: 4,
+            Message: B404: Consider possible security implications associated with the subprocess module.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524782
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/CdkAspectsOverrideExampleStack1.template.json,
+            Line: 37,
+            Message: CKV_AWS_116: Ensure that AWS Lambda function is configured for a Dead Letter Queue(DLQ)
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525954
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-s3-deployment/bucket-deployment-handler/index.py,
+            Line: 244,
+            Message: B603: subprocess call - check for execution of untrusted input.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525729
+            Job name: bandit
+            Severity: WARNING
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/helm/__init__.py,
+            Line: 17,
+            Message: B108: Probable insecure usage of temp file/directory.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.526246
+            Job name: semgrep
+            Severity: INFO
+            Filename: /src/lib/example-stacks.ts,
+            Line: 16,
+            Message: Rule ID: missing-template-string-indicator Message: This looks like a JavaScript template string. Are you missing a '$' in front of '{...}'?
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525614
+            Job name: bandit
+            Severity: WARNING
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/apply/__init__.py,
+            Line: 12,
+            Message: B108: Probable insecure usage of temp file/directory.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525640
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/apply/__init__.py,
+            Line: 84,
+            Message: B603: subprocess call - check for execution of untrusted input.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525665
+            Job name: bandit
+            Severity: WARNING
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/get/__init__.py,
+            Line: 13,
+            Message: B108: Probable insecure usage of temp file/directory.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524811
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/CdkAspectsOverrideExampleStack1.template.json,
+            Line: 37,
+            Message: CKV_AWS_115: Ensure that AWS Lambda function is configured for function-level concurrent execution limit
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525678
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/get/__init__.py,
+            Line: 28,
+            Message: B607: Starting a process with a partial executable path
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525942
+            Job name: bandit
+            Severity: WARNING
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-s3-deployment/bucket-deployment-handler/index.py,
+            Line: 25,
+            Message: B108: Probable insecure usage of temp file/directory.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525827
+            Job name: bandit
+            Severity: ERROR
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/helm/__init__.py,
+            Line: 145,
+            Message: B602: subprocess call with shell=True identified, security issue.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525905
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/patch/__init__.py,
+            Line: 27,
+            Message: B603: subprocess call - check for execution of untrusted input.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524892
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack1WithAspects.template.json,
+            Line: 38,
+            Message: CKV_AWS_117: Ensure that AWS Lambda function is configured inside a VPC
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525979
+            Job name: bandit
+            Severity: WARNING
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-s3/notifications-resource-handler/index.py,
+            Line: 97,
+            Message: B310: Audit url open for permitted schemes. Allowing use of file:/ or custom schemes is often unexpected.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525881
+            Job name: bandit
+            Severity: WARNING
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/patch/__init__.py,
+            Line: 12,
+            Message: B108: Probable insecure usage of temp file/directory.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525802
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/helm/__init__.py,
+            Line: 82,
+            Message: B101: Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525595
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/apply/__init__.py,
+            Line: 4,
+            Message: B404: Consider possible security implications associated with the subprocess module.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.526229
+            Job name: semgrep
+            Severity: ERROR
+            Filename: /src/cdk.json,
+            Line: 47,
+            Message: Rule ID: detected-generic-secret Message: Generic Secret detected
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.526328
+            Job name: semgrep
+            Severity: WARNING
+            Filename: /src/package.json,
+            Line: 20,
+            Message: Rule ID: package-dependencies-check Message: Package dependencies with variant versions may lead to dependency hijack and confusion attacks. Better to specify an exact version or use package-lock.json for a specific version of the package.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524701
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack1WithoutAspects.template.json,
+            Line: 45,
+            Message: CKV_AWS_117: Ensure that AWS Lambda function is configured inside a VPC
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524651
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack2WithoutAspects.template.json,
+            Line: 45,
+            Message: CKV_AWS_115: Ensure that AWS Lambda function is configured for function-level concurrent execution limit
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524663
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack2WithoutAspects.template.json,
+            Line: 45,
+            Message: CKV_AWS_117: Ensure that AWS Lambda function is configured inside a VPC
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525653
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/get/__init__.py,
+            Line: 4,
+            Message: B404: Consider possible security implications associated with the subprocess module.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524846
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/CdkAspectsOverrideExampleStack1.template.json,
+            Line: 93,
+            Message: CKV_AWS_115: Ensure that AWS Lambda function is configured for function-level concurrent execution limit
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525893
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/patch/__init__.py,
+            Line: 27,
+            Message: B607: Starting a process with a partial executable path
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525393
+            Job name: cdk_nag_detect
+            Severity: INFO
+            Filename: N/A,
+            Line: 0,
+            Message: Detected a CDK project with AwsSolutionsCheck, however we cannot determine whether the project actually consumes cdk_nag. Please verify manually.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524612
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/CdkAspectsOverrideExampleStack2.template.json,
+            Line: 37,
+            Message: CKV_AWS_115: Ensure that AWS Lambda function is configured for function-level concurrent execution limit
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525918
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/patch/__init__.py,
+            Line: 59,
+            Message: B603: subprocess call - check for execution of untrusted input.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525717
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/helm/__init__.py,
+            Line: 5,
+            Message: B404: Consider possible security implications associated with the subprocess module.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.526003
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-stepfunctions-tasks/role-policy-handler/index.py,
+            Line: 12,
+            Message: B603: subprocess call - check for execution of untrusted input.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525840
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/helm/__init__.py,
+            Line: 162,
+            Message: B404: Consider possible security implications associated with the subprocess module.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524627
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/CdkAspectsOverrideExampleStack2.template.json,
+            Line: 37,
+            Message: CKV_AWS_117: Ensure that AWS Lambda function is configured inside a VPC
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524759
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack2WithAspects.template.json,
+            Line: 38,
+            Message: CKV_AWS_115: Ensure that AWS Lambda function is configured for function-level concurrent execution limit
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525741
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/helm/__init__.py,
+            Line: 23,
+            Message: B607: Starting a process with a partial executable path
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.526341
+            Job name: semgrep
+            Severity: WARNING
+            Filename: /src/package.json,
+            Line: 25,
+            Message: Rule ID: package-dependencies-check Message: Package dependencies with variant versions may lead to dependency hijack and confusion attacks. Better to specify an exact version or use package-lock.json for a specific version of the package.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524675
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack1WithoutAspects.template.json,
+            Line: 45,
+            Message: CKV_AWS_116: Ensure that AWS Lambda function is configured for a Dead Letter Queue(DLQ)
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525705
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/get/__init__.py,
+            Line: 78,
+            Message: B603: subprocess call - check for execution of untrusted input.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524770
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack2WithAspects.template.json,
+            Line: 38,
+            Message: CKV_AWS_117: Ensure that AWS Lambda function is configured inside a VPC
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524915
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack1WithAspects.template.json,
+            Line: 95,
+            Message: CKV_AWS_115: Ensure that AWS Lambda function is configured for function-level concurrent execution limit
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525627
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/apply/__init__.py,
+            Line: 37,
+            Message: B603: subprocess call - check for execution of untrusted input.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525765
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/helm/__init__.py,
+            Line: 58,
+            Message: B607: Starting a process with a partial executable path
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524748
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack2WithAspects.template.json,
+            Line: 38,
+            Message: CKV_AWS_116: Ensure that AWS Lambda function is configured for a Dead Letter Queue(DLQ)
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.526285
+            Job name: semgrep
+            Severity: WARNING
+            Filename: /src/package.json,
+            Line: 17,
+            Message: Rule ID: package-dependencies-check Message: Package dependencies with variant versions may lead to dependency hijack and confusion attacks. Better to specify an exact version or use package-lock.json for a specific version of the package.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524926
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack1WithAspects.template.json,
+            Line: 95,
+            Message: CKV_AWS_117: Ensure that AWS Lambda function is configured inside a VPC
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.525815
+            Job name: bandit
+            Severity: INFO
+            Filename: /src/node_modules/aws-cdk-lib/custom-resource-handlers/dist/aws-eks/kubectl-handler/helm/__init__.py,
+            Line: 83,
+            Message: B101: Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.524880
+            Job name: checkov
+            Severity: WARNING
+            Filename: /cdk.out/ExampleStack1WithAspects.template.json,
+            Line: 38,
+            Message: CKV_AWS_115: Ensure that AWS Lambda function is configured for function-level concurrent execution limit
+
+            -----
+
+            
+            Finding date:  2024-07-24 09:36:27.526353
+            Job name: semgrep
+            Severity: WARNING
+            Filename: /src/package.json,
+            Line: 26,
+            Message: Rule ID: package-dependencies-check Message: Package dependencies with variant versions may lead to dependency hijack and confusion attacks. Better to specify an exact version or use package-lock.json for a specific version of the package.
+
+            -----
+
+            

@@ -1,0 +1,8676 @@
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+certificate-transparency-logging.guard/aws_acm_certificate_transparency_logging    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_acm_certificate_transparency_logging
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+certificate-transparency-logging.guard/aws_acm_certificate_transparency_logging    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_acm_certificate_transparency_logging
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+certificate-transparency-logging.guard/aws_acm_certificate_transparency_logging    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_acm_certificate_transparency_logging
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+domain-has-endpoint-config.guard/aws_apigateway_domain_endpoint_configuration    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_domain_endpoint_configuration
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+domain-has-endpoint-config.guard/aws_apigateway_domain_endpoint_configuration    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_domain_endpoint_configuration
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+domain-has-endpoint-config.guard/aws_apigateway_domain_endpoint_configuration    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_domain_endpoint_configuration
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+domain-has-name.guard/aws_apigateway_domain_has_name    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_domain_has_name
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+domain-has-name.guard/aws_apigateway_domain_has_name    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_domain_has_name
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+domain-has-name.guard/aws_apigateway_domain_has_name    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_domain_has_name
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+domain-has-regional-certificate.guard/aws_apigateway_domain_has_regional_certificate    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_domain_has_regional_certificate
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+domain-has-regional-certificate.guard/aws_apigateway_domain_has_regional_certificate    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_domain_has_regional_certificate
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+domain-has-regional-certificate.guard/aws_apigateway_domain_has_regional_certificate    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_domain_has_regional_certificate
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+domain-has-security-policy.guard/aws_apigateway_domain_has_security_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_domain_has_security_policy
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+domain-has-security-policy.guard/aws_apigateway_domain_has_security_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_domain_has_security_policy
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+domain-has-security-policy.guard/aws_apigateway_domain_has_security_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_domain_has_security_policy
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+restapi-no-public.guard/aws_apigateway_restapi_no_public    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_restapi_no_public
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+restapi-no-public.guard/aws_apigateway_restapi_no_public    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_restapi_no_public
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+restapi-no-public.guard/aws_apigateway_restapi_no_public    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_restapi_no_public
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+stage-access-logging-enabled.guard/aws_apigateway_stage_access_logging    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_stage_access_logging
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+stage-access-logging-enabled.guard/aws_apigateway_stage_access_logging    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_stage_access_logging
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+stage-access-logging-enabled.guard/aws_apigateway_stage_access_logging    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_stage_access_logging
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+stage-client-certificate-enabled.guard/aws_apigateway_stage_client_certificate_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_stage_client_certificate_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+stage-client-certificate-enabled.guard/aws_apigateway_stage_client_certificate_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_stage_client_certificate_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+stage-client-certificate-enabled.guard/aws_apigateway_stage_client_certificate_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_stage_client_certificate_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+stage-tracing-enabled.guard/aws_apigateway_stage_tracing_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_stage_tracing_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+stage-tracing-enabled.guard/aws_apigateway_stage_tracing_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_stage_tracing_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+stage-tracing-enabled.guard/aws_apigateway_stage_tracing_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_apigateway_stage_tracing_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cache-at-rest-encryption.guard/aws_appsync_cache_at_rest_encryption    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_cache_at_rest_encryption
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cache-at-rest-encryption.guard/aws_appsync_cache_at_rest_encryption    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_cache_at_rest_encryption
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cache-at-rest-encryption.guard/aws_appsync_cache_at_rest_encryption    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_cache_at_rest_encryption
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cache-in-transit-encryption.guard/aws_appsync_cache_in_transit_encryption    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_cache_in_transit_encryption
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cache-in-transit-encryption.guard/aws_appsync_cache_in_transit_encryption    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_cache_in_transit_encryption
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cache-in-transit-encryption.guard/aws_appsync_cache_in_transit_encryption    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_cache_in_transit_encryption
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+graphql-api-authentication.guard/aws_appsync_graphql_api_authentication    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_graphql_api_authentication
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+graphql-api-authentication.guard/aws_appsync_graphql_api_authentication    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_graphql_api_authentication
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+graphql-api-authentication.guard/aws_appsync_graphql_api_authentication    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_graphql_api_authentication
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+graphql-api-logging-enabled.guard/aws_appsync_graphql_api_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_graphql_api_logging_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+graphql-api-logging-enabled.guard/aws_appsync_graphql_api_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_graphql_api_logging_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+graphql-api-logging-enabled.guard/aws_appsync_graphql_api_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_graphql_api_logging_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+graphql-api-webacl-associated.guard/aws_appsync_graphql_api_webacl_associated    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_graphql_api_webacl_associated
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+graphql-api-webacl-associated.guard/aws_appsync_graphql_api_webacl_associated    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_graphql_api_webacl_associated
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+graphql-api-webacl-associated.guard/aws_appsync_graphql_api_webacl_associated    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_graphql_api_webacl_associated
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+graphql-api-xray-enabled.guard/aws_appsync_graphql_api_xray_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_graphql_api_xray_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+graphql-api-xray-enabled.guard/aws_appsync_graphql_api_xray_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_graphql_api_xray_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+graphql-api-xray-enabled.guard/aws_appsync_graphql_api_xray_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_appsync_graphql_api_xray_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+workgroup-results-encrypted.guard/aws_athena_workgroups_results_encrypted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_athena_workgroups_results_encrypted
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+workgroup-results-encrypted.guard/aws_athena_workgroups_results_encrypted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_athena_workgroups_results_encrypted
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+workgroup-results-encrypted.guard/aws_athena_workgroups_results_encrypted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_athena_workgroups_results_encrypted
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+group-cooldown.guard/aws_autoscaling_group_cooldown    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_autoscaling_group_cooldown
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+group-cooldown.guard/aws_autoscaling_group_cooldown    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_autoscaling_group_cooldown
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+group-cooldown.guard/aws_autoscaling_group_cooldown    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_autoscaling_group_cooldown
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+group-scaling-notifications.guard/aws_autoscaling_group_notifications    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_autoscaling_group_notifications
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+group-scaling-notifications.guard/aws_autoscaling_group_notifications    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_autoscaling_group_notifications
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+group-scaling-notifications.guard/aws_autoscaling_group_notifications    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_autoscaling_group_notifications
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+launchconfiguration-public-ip-disabled.guard/aws_autoscaling_launch_configuration_public_ip_disabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_autoscaling_launch_configuration_public_ip_disabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+launchconfiguration-public-ip-disabled.guard/aws_autoscaling_launch_configuration_public_ip_disabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_autoscaling_launch_configuration_public_ip_disabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+launchconfiguration-public-ip-disabled.guard/aws_autoscaling_launch_configuration_public_ip_disabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_autoscaling_launch_configuration_public_ip_disabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+plan-cleanup.guard/aws_backup_plan_cleanup    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_backup_plan_cleanup
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+plan-cleanup.guard/aws_backup_plan_cleanup    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_backup_plan_cleanup
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+plan-cleanup.guard/aws_backup_plan_cleanup    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_backup_plan_cleanup
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+plan-minimum-retention.guard/aws_backup_plan_min_retention_35_days    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_backup_plan_min_retention_35_days
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+plan-minimum-retention.guard/aws_backup_plan_min_retention_35_days    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_backup_plan_min_retention_35_days
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+plan-minimum-retention.guard/aws_backup_plan_min_retention_35_days    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_backup_plan_min_retention_35_days
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+vault-access-policy.guard/aws_backup_vault_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_backup_vault_policy
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+vault-access-policy.guard/aws_backup_vault_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_backup_vault_policy
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+vault-access-policy.guard/aws_backup_vault_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_backup_vault_policy
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+vault-encrypted-cmk.guard/aws_backup_vault_encrypted_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_backup_vault_encrypted_cmk
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+vault-encrypted-cmk.guard/aws_backup_vault_encrypted_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_backup_vault_encrypted_cmk
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+vault-encrypted-cmk.guard/aws_backup_vault_encrypted_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_backup_vault_encrypted_cmk
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+budget-notifications-enabled.guard/aws_budgets_notification    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_budgets_notification
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+budget-notifications-enabled.guard/aws_budgets_notification    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_budgets_notification
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+budget-notifications-enabled.guard/aws_budgets_notification    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_budgets_notification
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+environmentec2-ssm-ingress.guard/aws_cloud9_environmentec2_ssm_ingress    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloud9_environmentec2_ssm_ingress
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+environmentec2-ssm-ingress.guard/aws_cloud9_environmentec2_ssm_ingress    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloud9_environmentec2_ssm_ingress
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+environmentec2-ssm-ingress.guard/aws_cloud9_environmentec2_ssm_ingress    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloud9_environmentec2_ssm_ingress
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+distribution-geo-restrictions-enabled.guard/aws_cloudfront_distribution_geo_restriction    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_geo_restriction
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+distribution-geo-restrictions-enabled.guard/aws_cloudfront_distribution_geo_restriction    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_geo_restriction
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+distribution-geo-restrictions-enabled.guard/aws_cloudfront_distribution_geo_restriction    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_geo_restriction
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+distribution-logging-enabled.guard/aws_cloudfront_distribution_logging    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_logging
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+distribution-logging-enabled.guard/aws_cloudfront_distribution_logging    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_logging
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+distribution-logging-enabled.guard/aws_cloudfront_distribution_logging    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_logging
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+distribution-origin-outdated-ssl.guard/aws_cloudfront_distribution_deprecated_ssl_protocols    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_deprecated_ssl_protocols
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+distribution-origin-outdated-ssl.guard/aws_cloudfront_distribution_deprecated_ssl_protocols    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_deprecated_ssl_protocols
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+distribution-origin-outdated-ssl.guard/aws_cloudfront_distribution_deprecated_ssl_protocols    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_deprecated_ssl_protocols
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+distribution-required-cache-behavior.guard/aws_cloudfront_distribution_required_cache_behaviours    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_required_cache_behaviours
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+distribution-required-cache-behavior.guard/aws_cloudfront_distribution_required_cache_behaviours    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_required_cache_behaviours
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+distribution-required-cache-behavior.guard/aws_cloudfront_distribution_required_cache_behaviours    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_required_cache_behaviours
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+distribution-s3-origin-access-identity.guard/aws_cloudfront_distribution_s3_origin_access_identity    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_s3_origin_access_identity
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+distribution-s3-origin-access-identity.guard/aws_cloudfront_distribution_s3_origin_access_identity    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_s3_origin_access_identity
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+distribution-s3-origin-access-identity.guard/aws_cloudfront_distribution_s3_origin_access_identity    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_s3_origin_access_identity
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+distribution-tls-to-custom-origin.guard/aws_cloudfront_distribution_tls_to_custom_origin    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_tls_to_custom_origin
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+distribution-tls-to-custom-origin.guard/aws_cloudfront_distribution_tls_to_custom_origin    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_tls_to_custom_origin
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+distribution-tls-to-custom-origin.guard/aws_cloudfront_distribution_tls_to_custom_origin    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_tls_to_custom_origin
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+distribution-viewercertificate-outdatated-ssl.guard/aws_cloudfront_distribution_outdated_ssl    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_outdated_ssl
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+distribution-viewercertificate-outdatated-ssl.guard/aws_cloudfront_distribution_outdated_ssl    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_outdated_ssl
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+distribution-viewercertificate-outdatated-ssl.guard/aws_cloudfront_distribution_outdated_ssl    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_outdated_ssl
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+distribution-viewercertificate-sni-only.guard/aws_cloudfront_distribution_sni_only    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_sni_only
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+distribution-viewercertificate-sni-only.guard/aws_cloudfront_distribution_sni_only    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_sni_only
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+distribution-viewercertificate-sni-only.guard/aws_cloudfront_distribution_sni_only    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_sni_only
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+distribution-viewercertificate-uses-acm.guard/aws_cloudfront_distribution_uses_acm    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_uses_acm
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+distribution-viewercertificate-uses-acm.guard/aws_cloudfront_distribution_uses_acm    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_uses_acm
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+distribution-viewercertificate-uses-acm.guard/aws_cloudfront_distribution_uses_acm    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_uses_acm
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+distribution-waf-associated.guard/aws_cloudfront_distribution_waf_associated    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_waf_associated
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+distribution-waf-associated.guard/aws_cloudfront_distribution_waf_associated    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_waf_associated
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+distribution-waf-associated.guard/aws_cloudfront_distribution_waf_associated    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudfront_distribution_waf_associated
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+trail-global-service-events.guard/aws_cloudtrail_trail_global_service_events    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudtrail_trail_global_service_events
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+trail-global-service-events.guard/aws_cloudtrail_trail_global_service_events    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudtrail_trail_global_service_events
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+trail-global-service-events.guard/aws_cloudtrail_trail_global_service_events    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudtrail_trail_global_service_events
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+trail-is-enabled.guard/aws_cloudtrail_trail_is_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudtrail_trail_is_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+trail-is-enabled.guard/aws_cloudtrail_trail_is_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudtrail_trail_is_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+trail-is-enabled.guard/aws_cloudtrail_trail_is_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudtrail_trail_is_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+trail-is-encrypted.guard/aws_cloudtrail_trail_is_encrypted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudtrail_trail_is_encrypted
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+trail-is-encrypted.guard/aws_cloudtrail_trail_is_encrypted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudtrail_trail_is_encrypted
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+trail-is-encrypted.guard/aws_cloudtrail_trail_is_encrypted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudtrail_trail_is_encrypted
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+trail-is-multi-region.guard/aws_cloudtrail_trail_is_multi_region    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudtrail_trail_is_multi_region
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+trail-is-multi-region.guard/aws_cloudtrail_trail_is_multi_region    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudtrail_trail_is_multi_region
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+trail-is-multi-region.guard/aws_cloudtrail_trail_is_multi_region    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudtrail_trail_is_multi_region
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+trail-log-validation.guard/aws_cloudtrail_trail_log_validation    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudtrail_trail_log_validation
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+trail-log-validation.guard/aws_cloudtrail_trail_log_validation    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudtrail_trail_log_validation
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+trail-log-validation.guard/aws_cloudtrail_trail_log_validation    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudtrail_trail_log_validation
+compliant: []
+Other
+sqs-template.json Status = PASS
+PASS rules
+alarm-enabled-with-actions.guard/aws_cloudwatch_alarm_action_enabled    PASS
+---
+---
+name: ""
+metadata: {}
+status: PASS
+not_compliant: []
+not_applicable: []
+compliant:
+  - aws_cloudwatch_alarm_action_enabled
+s3-template.json Status = SKIP
+SKIP rules
+alarm-enabled-with-actions.guard/aws_cloudwatch_alarm_action_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudwatch_alarm_action_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+alarm-enabled-with-actions.guard/aws_cloudwatch_alarm_action_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cloudwatch_alarm_action_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+project-is-encrypted.guard/aws_codebuild_projects_must_be_encrypted_using_kms    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_codebuild_projects_must_be_encrypted_using_kms
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+project-is-encrypted.guard/aws_codebuild_projects_must_be_encrypted_using_kms    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_codebuild_projects_must_be_encrypted_using_kms
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+project-is-encrypted.guard/aws_codebuild_projects_must_be_encrypted_using_kms    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_codebuild_projects_must_be_encrypted_using_kms
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+project-no-plaintext-creds.guard/aws_codebuild_project_env_variables_plaintext_creds    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_codebuild_project_env_variables_plaintext_creds
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+project-no-plaintext-creds.guard/aws_codebuild_project_env_variables_plaintext_creds    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_codebuild_project_env_variables_plaintext_creds
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+project-no-plaintext-creds.guard/aws_codebuild_project_env_variables_plaintext_creds    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_codebuild_project_env_variables_plaintext_creds
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+project-no-privileged-mode.guard/aws_codebuild_projects_must_use_standard_image    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_codebuild_projects_must_use_standard_image
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+project-no-privileged-mode.guard/aws_codebuild_projects_must_use_standard_image    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_codebuild_projects_must_use_standard_image
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+project-no-privileged-mode.guard/aws_codebuild_projects_must_use_standard_image    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_codebuild_projects_must_use_standard_image
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+project-uses-standard-image.guard/aws_codebuild_projects_must_not_use_privileged_mode    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_codebuild_projects_must_not_use_privileged_mode
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+project-uses-standard-image.guard/aws_codebuild_projects_must_not_use_privileged_mode    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_codebuild_projects_must_not_use_privileged_mode
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+project-uses-standard-image.guard/aws_codebuild_projects_must_not_use_privileged_mode    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_codebuild_projects_must_not_use_privileged_mode
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+sourcecredential-use-oauth.guard/aws_codebuild_sourcecredential_use_oauth    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_codebuild_sourcecredential_use_oauth
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+sourcecredential-use-oauth.guard/aws_codebuild_sourcecredential_use_oauth    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_codebuild_sourcecredential_use_oauth
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+sourcecredential-use-oauth.guard/aws_codebuild_sourcecredential_use_oauth    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_codebuild_sourcecredential_use_oauth
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+userpool-advanced-security-mode.guard/aws_cognito_userpool_advanced_security_mode    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cognito_userpool_advanced_security_mode
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+userpool-advanced-security-mode.guard/aws_cognito_userpool_advanced_security_mode    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cognito_userpool_advanced_security_mode
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+userpool-advanced-security-mode.guard/aws_cognito_userpool_advanced_security_mode    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cognito_userpool_advanced_security_mode
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+userpool-mfa-enabled.guard/aws_cognito_userpool_mfa    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cognito_userpool_mfa
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+userpool-mfa-enabled.guard/aws_cognito_userpool_mfa    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cognito_userpool_mfa
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+userpool-mfa-enabled.guard/aws_cognito_userpool_mfa    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cognito_userpool_mfa
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+userpool-password-policy.guard/aws_cognito_userpool_secure_password_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cognito_userpool_secure_password_policy
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+userpool-password-policy.guard/aws_cognito_userpool_secure_password_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cognito_userpool_secure_password_policy
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+userpool-password-policy.guard/aws_cognito_userpool_secure_password_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_cognito_userpool_secure_password_policy
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+configurationrecorder-global-enabled.guard/aws_config_configurationrecorder_global_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_config_configurationrecorder_global_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+configurationrecorder-global-enabled.guard/aws_config_configurationrecorder_global_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_config_configurationrecorder_global_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+configurationrecorder-global-enabled.guard/aws_config_configurationrecorder_global_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_config_configurationrecorder_global_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+replicationinstance-no-public.guard/aws_dms_replicationinstance_no_public    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dms_replicationinstance_no_public
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+replicationinstance-no-public.guard/aws_dms_replicationinstance_no_public    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dms_replicationinstance_no_public
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+replicationinstance-no-public.guard/aws_dms_replicationinstance_no_public    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dms_replicationinstance_no_public
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-backup-retention.guard/aws_documentdb_cluster_backup_retention_period    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_documentdb_cluster_backup_retention_period
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-backup-retention.guard/aws_documentdb_cluster_backup_retention_period    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_documentdb_cluster_backup_retention_period
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-backup-retention.guard/aws_documentdb_cluster_backup_retention_period    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_documentdb_cluster_backup_retention_period
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-deletion-protection.guard/aws_documentdb_cluster_deletion_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_documentdb_cluster_deletion_protection
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-deletion-protection.guard/aws_documentdb_cluster_deletion_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_documentdb_cluster_deletion_protection
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-deletion-protection.guard/aws_documentdb_cluster_deletion_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_documentdb_cluster_deletion_protection
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-encryption-at-rest.guard/aws_documentdb_cluster_encryption_at_rest    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_documentdb_cluster_encryption_at_rest
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-encryption-at-rest.guard/aws_documentdb_cluster_encryption_at_rest    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_documentdb_cluster_encryption_at_rest
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-encryption-at-rest.guard/aws_documentdb_cluster_encryption_at_rest    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_documentdb_cluster_encryption_at_rest
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+dax-cluster-encryption-at-rest.guard/aws_dax_cluster_encryption_at_rest    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dax_cluster_encryption_at_rest
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+dax-cluster-encryption-at-rest.guard/aws_dax_cluster_encryption_at_rest    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dax_cluster_encryption_at_rest
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+dax-cluster-encryption-at-rest.guard/aws_dax_cluster_encryption_at_rest    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dax_cluster_encryption_at_rest
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+dax-cluster-encryption-in-transit.guard/aws_dax_encryption_in_transit    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dax_encryption_in_transit
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+dax-cluster-encryption-in-transit.guard/aws_dax_encryption_in_transit    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dax_encryption_in_transit
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+dax-cluster-encryption-in-transit.guard/aws_dax_encryption_in_transit    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dax_encryption_in_transit
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+table-deletion-protection.guard/aws_dynamodb_table_deletion_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dynamodb_table_deletion_protection
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+table-deletion-protection.guard/aws_dynamodb_table_deletion_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dynamodb_table_deletion_protection
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+table-deletion-protection.guard/aws_dynamodb_table_deletion_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dynamodb_table_deletion_protection
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+table-explicit-attribute-definition.guard/aws_dynamodb_table_explicit_attribute_definition    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dynamodb_table_explicit_attribute_definition
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+table-explicit-attribute-definition.guard/aws_dynamodb_table_explicit_attribute_definition    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dynamodb_table_explicit_attribute_definition
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+table-explicit-attribute-definition.guard/aws_dynamodb_table_explicit_attribute_definition    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dynamodb_table_explicit_attribute_definition
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+table-explicit-key-schema.guard/aws_dynamodb_table_explicit_key_schema    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dynamodb_table_explicit_key_schema
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+table-explicit-key-schema.guard/aws_dynamodb_table_explicit_key_schema    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dynamodb_table_explicit_key_schema
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+table-explicit-key-schema.guard/aws_dynamodb_table_explicit_key_schema    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dynamodb_table_explicit_key_schema
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+table-kms-encrypted.guard/aws_dynamodb_table_sse_customer_managed_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dynamodb_table_sse_customer_managed_cmk
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+table-kms-encrypted.guard/aws_dynamodb_table_sse_customer_managed_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dynamodb_table_sse_customer_managed_cmk
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+table-kms-encrypted.guard/aws_dynamodb_table_sse_customer_managed_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dynamodb_table_sse_customer_managed_cmk
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+table-pitr-enabled.guard/aws_dynamodb_table_pitr_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dynamodb_table_pitr_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+table-pitr-enabled.guard/aws_dynamodb_table_pitr_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dynamodb_table_pitr_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+table-pitr-enabled.guard/aws_dynamodb_table_pitr_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_dynamodb_table_pitr_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+ebs-encryption-enabled.guard/aws_ec2_ebs_encryption    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_ebs_encryption
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+ebs-encryption-enabled.guard/aws_ec2_ebs_encryption    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_ebs_encryption
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+ebs-encryption-enabled.guard/aws_ec2_ebs_encryption    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_ebs_encryption
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+instanace-termination-protection.guard/aws_ec2_instance_termination_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_instance_termination_protection
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+instanace-termination-protection.guard/aws_ec2_instance_termination_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_instance_termination_protection
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+instanace-termination-protection.guard/aws_ec2_instance_termination_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_instance_termination_protection
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+instance-detailed-monitoring.guard/aws_ec2_instance_detailed_monitoring_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_instance_detailed_monitoring_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+instance-detailed-monitoring.guard/aws_ec2_instance_detailed_monitoring_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_instance_detailed_monitoring_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+instance-detailed-monitoring.guard/aws_ec2_instance_detailed_monitoring_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_instance_detailed_monitoring_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+instance-ebs-delete-on-termination.guard/aws_ec2_ebs_attached_volume_delete_on_termination_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_ebs_attached_volume_delete_on_termination_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+instance-ebs-delete-on-termination.guard/aws_ec2_ebs_attached_volume_delete_on_termination_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_ebs_attached_volume_delete_on_termination_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+instance-ebs-delete-on-termination.guard/aws_ec2_ebs_attached_volume_delete_on_termination_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_ebs_attached_volume_delete_on_termination_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+instance-ebs-optimization.guard/aws_ec2_instance_ebs_optimized    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_instance_ebs_optimized
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+instance-ebs-optimization.guard/aws_ec2_instance_ebs_optimized    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_instance_ebs_optimized
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+instance-ebs-optimization.guard/aws_ec2_instance_ebs_optimized    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_instance_ebs_optimized
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+instance-iam-associated.guard/aws_ec2_iam_associated    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_iam_associated
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+instance-iam-associated.guard/aws_ec2_iam_associated    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_iam_associated
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+instance-iam-associated.guard/aws_ec2_iam_associated    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_iam_associated
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+security-group-has-description.guard/aws_ec2_security_group_has_description    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_has_description
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+security-group-has-description.guard/aws_ec2_security_group_has_description    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_has_description
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+security-group-has-description.guard/aws_ec2_security_group_has_description    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_has_description
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+security-group-insecure-ports.guard/aws_ec2_security_group_insecure_ports    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_insecure_ports
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+security-group-insecure-ports.guard/aws_ec2_security_group_insecure_ports    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_insecure_ports
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+security-group-insecure-ports.guard/aws_ec2_security_group_insecure_ports    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_insecure_ports
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+security-group-unrestricted-egress-ports.guard/aws_ec2_security_group_unrestricted_egress_ports    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_unrestricted_egress_ports
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+security-group-unrestricted-egress-ports.guard/aws_ec2_security_group_unrestricted_egress_ports    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_unrestricted_egress_ports
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+security-group-unrestricted-egress-ports.guard/aws_ec2_security_group_unrestricted_egress_ports    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_unrestricted_egress_ports
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+security-group-unrestricted-inbound.guard/aws_ec2_security_group_unrestricted_inbound    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_unrestricted_inbound
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+security-group-unrestricted-inbound.guard/aws_ec2_security_group_unrestricted_inbound    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_unrestricted_inbound
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+security-group-unrestricted-inbound.guard/aws_ec2_security_group_unrestricted_inbound    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_unrestricted_inbound
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+security-group-unrestricted-ingress-ports.guard/aws_ec2_security_group_unrestricted_ingress_ports    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_unrestricted_ingress_ports
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+security-group-unrestricted-ingress-ports.guard/aws_ec2_security_group_unrestricted_ingress_ports    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_unrestricted_ingress_ports
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+security-group-unrestricted-ingress-ports.guard/aws_ec2_security_group_unrestricted_ingress_ports    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_unrestricted_ingress_ports
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+security-group-unrestricted-outbound.guard/aws_ec2_security_group_unrestricted_outbound    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_unrestricted_outbound
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+security-group-unrestricted-outbound.guard/aws_ec2_security_group_unrestricted_outbound    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_unrestricted_outbound
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+security-group-unrestricted-outbound.guard/aws_ec2_security_group_unrestricted_outbound    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_security_group_unrestricted_outbound
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+subnet-no-public-ip-on-launch.guard/aws_ec2_subnet_auto_assign_ip_disabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_subnet_auto_assign_ip_disabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+subnet-no-public-ip-on-launch.guard/aws_ec2_subnet_auto_assign_ip_disabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_subnet_auto_assign_ip_disabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+subnet-no-public-ip-on-launch.guard/aws_ec2_subnet_auto_assign_ip_disabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_subnet_auto_assign_ip_disabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+vpc-endpoint-ddb.guard/aws_ec2_vpc_ddb_endpoint_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_vpc_ddb_endpoint_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+vpc-endpoint-ddb.guard/aws_ec2_vpc_ddb_endpoint_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_vpc_ddb_endpoint_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+vpc-endpoint-ddb.guard/aws_ec2_vpc_ddb_endpoint_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_vpc_ddb_endpoint_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+vpc-endpoint-kms.guard/aws_ec2_vpc_kms_endpoint_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_vpc_kms_endpoint_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+vpc-endpoint-kms.guard/aws_ec2_vpc_kms_endpoint_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_vpc_kms_endpoint_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+vpc-endpoint-kms.guard/aws_ec2_vpc_kms_endpoint_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_vpc_kms_endpoint_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+vpc-endpoint-s3.guard/aws_ec2_vpc_s3_endpoint_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_vpc_s3_endpoint_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+vpc-endpoint-s3.guard/aws_ec2_vpc_s3_endpoint_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_vpc_s3_endpoint_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+vpc-endpoint-s3.guard/aws_ec2_vpc_s3_endpoint_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_vpc_s3_endpoint_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+vpc-has-flow-logs.guard/aws_ec2_vpc_must_have_flow_log_configuration    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_vpc_must_have_flow_log_configuration
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+vpc-has-flow-logs.guard/aws_ec2_vpc_must_have_flow_log_configuration    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_vpc_must_have_flow_log_configuration
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+vpc-has-flow-logs.guard/aws_ec2_vpc_must_have_flow_log_configuration    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_vpc_must_have_flow_log_configuration
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+vpc-no-nacls.guard/aws_ec2_vpc_must_not_use_network_acls    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_vpc_must_not_use_network_acls
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+vpc-no-nacls.guard/aws_ec2_vpc_must_not_use_network_acls    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_vpc_must_not_use_network_acls
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+vpc-no-nacls.guard/aws_ec2_vpc_must_not_use_network_acls    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ec2_vpc_must_not_use_network_acls
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+repository-encrypted-at-rest.guard/aws_ecr_repository_kms_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ecr_repository_kms_encryption_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+repository-encrypted-at-rest.guard/aws_ecr_repository_kms_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ecr_repository_kms_encryption_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+repository-encrypted-at-rest.guard/aws_ecr_repository_kms_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ecr_repository_kms_encryption_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+repository-lifecycle-policy.guard/aws_ecr_repository_lifecycle_policies    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ecr_repository_lifecycle_policies
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+repository-lifecycle-policy.guard/aws_ecr_repository_lifecycle_policies    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ecr_repository_lifecycle_policies
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+repository-lifecycle-policy.guard/aws_ecr_repository_lifecycle_policies    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ecr_repository_lifecycle_policies
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+repository-resource-policy.guard/aws_ecr_repository_resource_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ecr_repository_resource_policy
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+repository-resource-policy.guard/aws_ecr_repository_resource_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ecr_repository_resource_policy
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+repository-resource-policy.guard/aws_ecr_repository_resource_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ecr_repository_resource_policy
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+repository-scan-on-push.guard/aws_ecr_repository_scan_on_push    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ecr_repository_scan_on_push
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+repository-scan-on-push.guard/aws_ecr_repository_scan_on_push    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ecr_repository_scan_on_push
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+repository-scan-on-push.guard/aws_ecr_repository_scan_on_push    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_ecr_repository_scan_on_push
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+filesystem-encrypted-at-rest-cmk.guard/aws_efs_filesystem_cmk_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_efs_filesystem_cmk_encryption_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+filesystem-encrypted-at-rest-cmk.guard/aws_efs_filesystem_cmk_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_efs_filesystem_cmk_encryption_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+filesystem-encrypted-at-rest-cmk.guard/aws_efs_filesystem_cmk_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_efs_filesystem_cmk_encryption_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+filesystem-encrypted-at-rest.guard/aws_efs_filesystem_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_efs_filesystem_encryption_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+filesystem-encrypted-at-rest.guard/aws_efs_filesystem_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_efs_filesystem_encryption_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+filesystem-encrypted-at-rest.guard/aws_efs_filesystem_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_efs_filesystem_encryption_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-control-plane-logging.guard/aws_eks_cluster_control_plane_logging    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_eks_cluster_control_plane_logging
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-control-plane-logging.guard/aws_eks_cluster_control_plane_logging    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_eks_cluster_control_plane_logging
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-control-plane-logging.guard/aws_eks_cluster_control_plane_logging    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_eks_cluster_control_plane_logging
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-kms-encrypted.guard/aws_eks_cluster_secrets_encrypted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_eks_cluster_secrets_encrypted
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-kms-encrypted.guard/aws_eks_cluster_secrets_encrypted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_eks_cluster_secrets_encrypted
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-kms-encrypted.guard/aws_eks_cluster_secrets_encrypted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_eks_cluster_secrets_encrypted
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-public-control-plane-disabled.guard/aws_eks_cluster_private_only    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_eks_cluster_private_only
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-public-control-plane-disabled.guard/aws_eks_cluster_private_only    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_eks_cluster_private_only
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-public-control-plane-disabled.guard/aws_eks_cluster_private_only    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_eks_cluster_private_only
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-public-control-plane-restricted.guard/aws_eks_cluster_control_plane_public_access_restricted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_eks_cluster_control_plane_public_access_restricted
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-public-control-plane-restricted.guard/aws_eks_cluster_control_plane_public_access_restricted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_eks_cluster_control_plane_public_access_restricted
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-public-control-plane-restricted.guard/aws_eks_cluster_control_plane_public_access_restricted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_eks_cluster_control_plane_public_access_restricted
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+replicationgroup-in-vpc.guard/aws_elasticache_replicationgroup_in_vpc    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_in_vpc
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+replicationgroup-in-vpc.guard/aws_elasticache_replicationgroup_in_vpc    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_in_vpc
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+replicationgroup-in-vpc.guard/aws_elasticache_replicationgroup_in_vpc    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_in_vpc
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-backups-enabled.guard/aws_elasticache_replicationgroup_backups_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_backups_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-backups-enabled.guard/aws_elasticache_replicationgroup_backups_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_backups_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-backups-enabled.guard/aws_elasticache_replicationgroup_backups_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_backups_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-encryption-at-rest.guard/aws_elasticache_replicationgroup_encryption_at_rest    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_encryption_at_rest
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-encryption-at-rest.guard/aws_elasticache_replicationgroup_encryption_at_rest    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_encryption_at_rest
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-encryption-at-rest.guard/aws_elasticache_replicationgroup_encryption_at_rest    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_encryption_at_rest
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-encryption-in-transit.guard/aws_elasticache_replicationgroup_encryption_in_transit    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_encryption_in_transit
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-encryption-in-transit.guard/aws_elasticache_replicationgroup_encryption_in_transit    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_encryption_in_transit
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-encryption-in-transit.guard/aws_elasticache_replicationgroup_encryption_in_transit    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_encryption_in_transit
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-multi-az.guard/aws_elasticache_replicationgroup_multi_az    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_multi_az
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-multi-az.guard/aws_elasticache_replicationgroup_multi_az    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_multi_az
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-multi-az.guard/aws_elasticache_replicationgroup_multi_az    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_multi_az
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-non-default-port.guard/aws_elasticache_replicationgroup_non_default_port    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_non_default_port
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-non-default-port.guard/aws_elasticache_replicationgroup_non_default_port    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_non_default_port
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-non-default-port.guard/aws_elasticache_replicationgroup_non_default_port    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_non_default_port
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-snapshot-retention.guard/aws_elasticache_replicationgroup_snapshot_retention_period    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_snapshot_retention_period
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-snapshot-retention.guard/aws_elasticache_replicationgroup_snapshot_retention_period    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_snapshot_retention_period
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+replicationgroup-redis-snapshot-retention.guard/aws_elasticache_replicationgroup_snapshot_retention_period    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elasticache_replicationgroup_snapshot_retention_period
+compliant: []
+Other
+sqs-template.json Status = PASS
+PASS rules
+domain-deprecated.guard/aws_elasticsearch_domain_deprecated    PASS
+---
+---
+name: ""
+metadata: {}
+status: PASS
+not_compliant: []
+not_applicable: []
+compliant:
+  - aws_elasticsearch_domain_deprecated
+s3-template.json Status = PASS
+PASS rules
+domain-deprecated.guard/aws_elasticsearch_domain_deprecated    PASS
+---
+---
+name: ""
+metadata: {}
+status: PASS
+not_compliant: []
+not_applicable: []
+compliant:
+  - aws_elasticsearch_domain_deprecated
+rds-template.json Status = PASS
+PASS rules
+domain-deprecated.guard/aws_elasticsearch_domain_deprecated    PASS
+---
+---
+name: ""
+metadata: {}
+status: PASS
+not_compliant: []
+not_applicable: []
+compliant:
+  - aws_elasticsearch_domain_deprecated
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+loadbalancer-access-logging-enabled.guard/aws_elb_loadbalancer_access_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_access_logging_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+loadbalancer-access-logging-enabled.guard/aws_elb_loadbalancer_access_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_access_logging_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+loadbalancer-access-logging-enabled.guard/aws_elb_loadbalancer_access_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_access_logging_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+loadbalancer-connection-draining-enabled.guard/aws_elb_loadbalancer_connection_draining    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_connection_draining
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+loadbalancer-connection-draining-enabled.guard/aws_elb_loadbalancer_connection_draining    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_connection_draining
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+loadbalancer-connection-draining-enabled.guard/aws_elb_loadbalancer_connection_draining    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_connection_draining
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+loadbalancer-cross-zone-enabled.guard/aws_elb_loadbalancer_cross_zone_load_balancing    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_cross_zone_load_balancing
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+loadbalancer-cross-zone-enabled.guard/aws_elb_loadbalancer_cross_zone_load_balancing    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_cross_zone_load_balancing
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+loadbalancer-cross-zone-enabled.guard/aws_elb_loadbalancer_cross_zone_load_balancing    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_cross_zone_load_balancing
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+loadbalancer-in-vpc.guard/aws_elb_loadbalancer_in_vpc    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_in_vpc
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+loadbalancer-in-vpc.guard/aws_elb_loadbalancer_in_vpc    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_in_vpc
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+loadbalancer-in-vpc.guard/aws_elb_loadbalancer_in_vpc    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_in_vpc
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+loadbalancer-no-public.guard/aws_elb_loadbalancer_no_public    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_no_public
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+loadbalancer-no-public.guard/aws_elb_loadbalancer_no_public    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_no_public
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+loadbalancer-no-public.guard/aws_elb_loadbalancer_no_public    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_no_public
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+loadbalancer-use-ssl.guard/aws_elb_loadbalancer_use_ssl    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_use_ssl
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+loadbalancer-use-ssl.guard/aws_elb_loadbalancer_use_ssl    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_use_ssl
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+loadbalancer-use-ssl.guard/aws_elb_loadbalancer_use_ssl    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elb_loadbalancer_use_ssl
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+loadbalancer-access-logging-enabled.guard/aws_elbv2_loadbalancer_access_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elbv2_loadbalancer_access_logging_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+loadbalancer-access-logging-enabled.guard/aws_elbv2_loadbalancer_access_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elbv2_loadbalancer_access_logging_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+loadbalancer-access-logging-enabled.guard/aws_elbv2_loadbalancer_access_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elbv2_loadbalancer_access_logging_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+loadbalancer-cross-zone-enabled.guard/aws_elbv2_loadbalancer_cross_zone_load_balancing    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elbv2_loadbalancer_cross_zone_load_balancing
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+loadbalancer-cross-zone-enabled.guard/aws_elbv2_loadbalancer_cross_zone_load_balancing    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elbv2_loadbalancer_cross_zone_load_balancing
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+loadbalancer-cross-zone-enabled.guard/aws_elbv2_loadbalancer_cross_zone_load_balancing    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elbv2_loadbalancer_cross_zone_load_balancing
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+loadbalancer-deletion-protection-enabled.guard/aws_elbv2_loadbalancer_deletion_protection_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elbv2_loadbalancer_deletion_protection_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+loadbalancer-deletion-protection-enabled.guard/aws_elbv2_loadbalancer_deletion_protection_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elbv2_loadbalancer_deletion_protection_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+loadbalancer-deletion-protection-enabled.guard/aws_elbv2_loadbalancer_deletion_protection_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elbv2_loadbalancer_deletion_protection_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+loadbalancer-drop-invalid-headers.guard/aws_elbv2_loadbalancer_drop_invalid_headers    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elbv2_loadbalancer_drop_invalid_headers
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+loadbalancer-drop-invalid-headers.guard/aws_elbv2_loadbalancer_drop_invalid_headers    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elbv2_loadbalancer_drop_invalid_headers
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+loadbalancer-drop-invalid-headers.guard/aws_elbv2_loadbalancer_drop_invalid_headers    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_elbv2_loadbalancer_drop_invalid_headers
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-access-logs-enabled.guard/aws_emr_cluster_access_logs_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_emr_cluster_access_logs_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-access-logs-enabled.guard/aws_emr_cluster_access_logs_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_emr_cluster_access_logs_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-access-logs-enabled.guard/aws_emr_cluster_access_logs_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_emr_cluster_access_logs_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-access-logs-encrypted.guard/aws_emr_cluster_access_logs_encrypted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_emr_cluster_access_logs_encrypted
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-access-logs-encrypted.guard/aws_emr_cluster_access_logs_encrypted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_emr_cluster_access_logs_encrypted
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-access-logs-encrypted.guard/aws_emr_cluster_access_logs_encrypted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_emr_cluster_access_logs_encrypted
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-kerberos-enabled.guard/aws_emr_cluster_kerberos_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_emr_cluster_kerberos_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-kerberos-enabled.guard/aws_emr_cluster_kerberos_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_emr_cluster_kerberos_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-kerberos-enabled.guard/aws_emr_cluster_kerberos_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_emr_cluster_kerberos_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+event-bus-has-policy.guard/aws_events_event_bus_has_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_events_event_bus_has_policy
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+event-bus-has-policy.guard/aws_events_event_bus_has_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_events_event_bus_has_policy
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+event-bus-has-policy.guard/aws_events_event_bus_has_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_events_event_bus_has_policy
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+event-bus-policy-no-wildcards.guard/aws_events_event_bus_policy_no_wildcards    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_events_event_bus_policy_no_wildcards
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+event-bus-policy-no-wildcards.guard/aws_events_event_bus_policy_no_wildcards    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_events_event_bus_policy_no_wildcards
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+event-bus-policy-no-wildcards.guard/aws_events_event_bus_policy_no_wildcards    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_events_event_bus_policy_no_wildcards
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+filesystem-automated-backups-enabled.guard/aws_fsx_filesystem_automated_backups_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_fsx_filesystem_automated_backups_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+filesystem-automated-backups-enabled.guard/aws_fsx_filesystem_automated_backups_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_fsx_filesystem_automated_backups_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+filesystem-automated-backups-enabled.guard/aws_fsx_filesystem_automated_backups_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_fsx_filesystem_automated_backups_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+filesystem-encrypted.guard/aws_fsx_filesystem_encryption_customer_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_fsx_filesystem_encryption_customer_cmk
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+filesystem-encrypted.guard/aws_fsx_filesystem_encryption_customer_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_fsx_filesystem_encryption_customer_cmk
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+filesystem-encrypted.guard/aws_fsx_filesystem_encryption_customer_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_fsx_filesystem_encryption_customer_cmk
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+filesystem-multi-az-enabled.guard/aws_fsx_filesystem_multi_az    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_fsx_filesystem_multi_az
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+filesystem-multi-az-enabled.guard/aws_fsx_filesystem_multi_az    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_fsx_filesystem_multi_az
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+filesystem-multi-az-enabled.guard/aws_fsx_filesystem_multi_az    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_fsx_filesystem_multi_az
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+group-no-inline-policy.guard/aws_iam_group_no_inline_policies    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_no_inline_policies
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+group-no-inline-policy.guard/aws_iam_group_no_inline_policies    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_no_inline_policies
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+group-no-inline-policy.guard/aws_iam_group_no_inline_policies    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_no_inline_policies
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+group-no-sensitive-iam.guard/aws_iam_group_no_sensitive_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_no_sensitive_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+group-no-sensitive-iam.guard/aws_iam_group_no_sensitive_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_no_sensitive_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+group-no-sensitive-iam.guard/aws_iam_group_no_sensitive_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_no_sensitive_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-assume-role.guard/aws_iam_group_no_unrestricted_assume_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_no_unrestricted_assume_role
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-assume-role.guard/aws_iam_group_no_unrestricted_assume_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_no_unrestricted_assume_role
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-assume-role.guard/aws_iam_group_no_unrestricted_assume_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_no_unrestricted_assume_role
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-lambda-invoke.guard/aws_iam_group_unrestricted_lambda_invoke    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_unrestricted_lambda_invoke
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-lambda-invoke.guard/aws_iam_group_unrestricted_lambda_invoke    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_unrestricted_lambda_invoke
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-lambda-invoke.guard/aws_iam_group_unrestricted_lambda_invoke    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_unrestricted_lambda_invoke
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-pass-role.guard/aws_iam_group_unrestriced_pass_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_unrestriced_pass_role
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-pass-role.guard/aws_iam_group_unrestriced_pass_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_unrestriced_pass_role
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-pass-role.guard/aws_iam_group_unrestriced_pass_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_unrestriced_pass_role
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-s3-full.guard/aws_iam_group_s3_full_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_s3_full_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-s3-full.guard/aws_iam_group_s3_full_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_s3_full_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-s3-full.guard/aws_iam_group_s3_full_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_s3_full_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-s3-read.guard/aws_iam_group_s3_read_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_s3_read_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-s3-read.guard/aws_iam_group_s3_read_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_s3_read_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-s3-read.guard/aws_iam_group_s3_read_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_s3_read_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-secretsmanager.guard/aws_iam_group_unrestricted_secretsmanager    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_unrestricted_secretsmanager
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-secretsmanager.guard/aws_iam_group_unrestricted_secretsmanager    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_unrestricted_secretsmanager
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+group-no-unrestricted-secretsmanager.guard/aws_iam_group_unrestricted_secretsmanager    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_group_unrestricted_secretsmanager
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+managed-policy-no-notaction.guard/aws_iam_managed_policy_no_not_action    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_no_not_action
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+managed-policy-no-notaction.guard/aws_iam_managed_policy_no_not_action    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_no_not_action
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+managed-policy-no-notaction.guard/aws_iam_managed_policy_no_not_action    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_no_not_action
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+managed-policy-no-sensitive-iam.guard/aws_iam_managed_policy_no_sensitive_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_no_sensitive_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+managed-policy-no-sensitive-iam.guard/aws_iam_managed_policy_no_sensitive_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_no_sensitive_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+managed-policy-no-sensitive-iam.guard/aws_iam_managed_policy_no_sensitive_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_no_sensitive_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-assume-role.guard/aws_iam_managed_policy_no_unrestricted_assume_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_no_unrestricted_assume_role
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-assume-role.guard/aws_iam_managed_policy_no_unrestricted_assume_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_no_unrestricted_assume_role
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-assume-role.guard/aws_iam_managed_policy_no_unrestricted_assume_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_no_unrestricted_assume_role
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-lambda-invoke.guard/aws_iam_managed_policy_unrestricted_lambda_invoke    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_unrestricted_lambda_invoke
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-lambda-invoke.guard/aws_iam_managed_policy_unrestricted_lambda_invoke    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_unrestricted_lambda_invoke
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-lambda-invoke.guard/aws_iam_managed_policy_unrestricted_lambda_invoke    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_unrestricted_lambda_invoke
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-pass-role.guard/aws_iam_managed_policy_unrestriced_pass_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_unrestriced_pass_role
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-pass-role.guard/aws_iam_managed_policy_unrestriced_pass_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_unrestriced_pass_role
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-pass-role.guard/aws_iam_managed_policy_unrestriced_pass_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_unrestriced_pass_role
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-s3-full.guard/aws_iam_managed_policy_s3_full_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_s3_full_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-s3-full.guard/aws_iam_managed_policy_s3_full_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_s3_full_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-s3-full.guard/aws_iam_managed_policy_s3_full_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_s3_full_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-s3-read.guard/aws_iam_managed_policy_s3_read_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_s3_read_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-s3-read.guard/aws_iam_managed_policy_s3_read_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_s3_read_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-s3-read.guard/aws_iam_managed_policy_s3_read_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_s3_read_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-secretsmanager.guard/aws_iam_managed_policy_unrestricted_secretsmanager    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_unrestricted_secretsmanager
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-secretsmanager.guard/aws_iam_managed_policy_unrestricted_secretsmanager    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_unrestricted_secretsmanager
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+managed-policy-no-unrestricted-secretsmanager.guard/aws_iam_managed_policy_unrestricted_secretsmanager    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_managed_policy_unrestricted_secretsmanager
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+managed-policy-no-wildcard-action.guard/aws_iam_no_wild_card_in_managed_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_no_wild_card_in_managed_policy
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+managed-policy-no-wildcard-action.guard/aws_iam_no_wild_card_in_managed_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_no_wild_card_in_managed_policy
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+managed-policy-no-wildcard-action.guard/aws_iam_no_wild_card_in_managed_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_no_wild_card_in_managed_policy
+compliant: []
+Parsing error handling rule file = managed-policy-no-wildcard-resource.guard, Error = Parser Error when parsing Parsing Error Error parsing file managed-policy-no-wildcard-resource.guard at line 1 at column 1, when handling , fragment 
+
+---
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+policy-no-notaction.guard/aws_iam_policy_no_not_action    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_no_not_action
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+policy-no-notaction.guard/aws_iam_policy_no_not_action    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_no_not_action
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+policy-no-notaction.guard/aws_iam_policy_no_not_action    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_no_not_action
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+policy-no-sensitive-iam.guard/aws_iam_policy_no_sensitive_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_no_sensitive_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+policy-no-sensitive-iam.guard/aws_iam_policy_no_sensitive_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_no_sensitive_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+policy-no-sensitive-iam.guard/aws_iam_policy_no_sensitive_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_no_sensitive_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-assume-role.guard/aws_iam_policy_no_unrestricted_assume_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_no_unrestricted_assume_role
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-assume-role.guard/aws_iam_policy_no_unrestricted_assume_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_no_unrestricted_assume_role
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-assume-role.guard/aws_iam_policy_no_unrestricted_assume_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_no_unrestricted_assume_role
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-lambda-invoke.guard/aws_iam_policy_unrestricted_lambda_invoke    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_unrestricted_lambda_invoke
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-lambda-invoke.guard/aws_iam_policy_unrestricted_lambda_invoke    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_unrestricted_lambda_invoke
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-lambda-invoke.guard/aws_iam_policy_unrestricted_lambda_invoke    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_unrestricted_lambda_invoke
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-pass-role.guard/aws_iam_policy_unrestriced_pass_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_unrestriced_pass_role
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-pass-role.guard/aws_iam_policy_unrestriced_pass_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_unrestriced_pass_role
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-pass-role.guard/aws_iam_policy_unrestriced_pass_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_unrestriced_pass_role
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-s3-full.guard/aws_iam_policy_s3_full_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_s3_full_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-s3-full.guard/aws_iam_policy_s3_full_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_s3_full_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-s3-full.guard/aws_iam_policy_s3_full_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_s3_full_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-s3-read.guard/aws_iam_policy_s3_read_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_s3_read_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-s3-read.guard/aws_iam_policy_s3_read_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_s3_read_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-s3-read.guard/aws_iam_policy_s3_read_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_s3_read_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-secretsmanager.guard/aws_iam_policy_unrestricted_secretsmanager    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_unrestricted_secretsmanager
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-secretsmanager.guard/aws_iam_policy_unrestricted_secretsmanager    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_unrestricted_secretsmanager
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+policy-no-unrestricted-secretsmanager.guard/aws_iam_policy_unrestricted_secretsmanager    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_unrestricted_secretsmanager
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+policy-no-wildcard-action.guard/aws_iam_policy_no_wild_card_action    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_no_wild_card_action
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+policy-no-wildcard-action.guard/aws_iam_policy_no_wild_card_action    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_no_wild_card_action
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+policy-no-wildcard-action.guard/aws_iam_policy_no_wild_card_action    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_no_wild_card_action
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+policy-no-wildcard-resource.guard/aws_iam_policy_no_wild_card_resource    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_no_wild_card_resource
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+policy-no-wildcard-resource.guard/aws_iam_policy_no_wild_card_resource    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_no_wild_card_resource
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+policy-no-wildcard-resource.guard/aws_iam_policy_no_wild_card_resource    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_policy_no_wild_card_resource
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+role-no-assume-public.guard/aws_iam_role_assume_public    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_assume_public
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+role-no-assume-public.guard/aws_iam_role_assume_public    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_assume_public
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+role-no-assume-public.guard/aws_iam_role_assume_public    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_assume_public
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+role-no-aws-managed-policy.guard/aws_iam_role_no_attached_aws_managed_policies    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_no_attached_aws_managed_policies
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+role-no-aws-managed-policy.guard/aws_iam_role_no_attached_aws_managed_policies    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_no_attached_aws_managed_policies
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+role-no-aws-managed-policy.guard/aws_iam_role_no_attached_aws_managed_policies    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_no_attached_aws_managed_policies
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+role-no-inline-policy.guard/aws_iam_role_no_inline_policies    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_no_inline_policies
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+role-no-inline-policy.guard/aws_iam_role_no_inline_policies    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_no_inline_policies
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+role-no-inline-policy.guard/aws_iam_role_no_inline_policies    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_no_inline_policies
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+role-no-sensitive-iam.guard/aws_iam_role_no_sensitive_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_no_sensitive_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+role-no-sensitive-iam.guard/aws_iam_role_no_sensitive_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_no_sensitive_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+role-no-sensitive-iam.guard/aws_iam_role_no_sensitive_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_no_sensitive_access
+compliant: []
+Parsing error handling rule file = role-no-unrestricted-assume-role.guard, Error = Parser Error when parsing Parsing Error Error parsing file role-no-unrestricted-assume-role.guard at line 12 at column 50, when handling , fragment %sts_restricted_actions
+                            some Resource[*] == "*"
+                        ] empty <<IAM role found with a policy that allows unrestricted sts:AssumeRole>>
+                    }
+                }
+            }
+        }
+    }
+}
+
+---
+Parsing error handling rule file = role-no-unrestricted-lambda-invoke.guard, Error = Parser Error when parsing Parsing Error Error parsing file role-no-unrestricted-lambda-invoke.guard at line 12 at column 50, when handling , fragment %lambda_restricted_actions
+                            some Resource[*] == "*"
+                        ] empty <<IAM role found with a policy that allows unrestricted Lambda Invoke Function to all functions>>
+                    }
+                }
+            }
+        }
+    }
+}
+
+---
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+role-no-unrestricted-pass-role.guard/aws_iam_role_unrestriced_pass_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_unrestriced_pass_role
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+role-no-unrestricted-pass-role.guard/aws_iam_role_unrestriced_pass_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_unrestriced_pass_role
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+role-no-unrestricted-pass-role.guard/aws_iam_role_unrestriced_pass_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_unrestriced_pass_role
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+role-no-unrestricted-s3-full.guard/aws_iam_role_s3_full_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_s3_full_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+role-no-unrestricted-s3-full.guard/aws_iam_role_s3_full_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_s3_full_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+role-no-unrestricted-s3-full.guard/aws_iam_role_s3_full_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_s3_full_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+role-no-unrestricted-s3-read.guard/aws_iam_role_s3_read_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_s3_read_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+role-no-unrestricted-s3-read.guard/aws_iam_role_s3_read_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_s3_read_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+role-no-unrestricted-s3-read.guard/aws_iam_role_s3_read_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_s3_read_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+role-no-unrestricted-secretsmanager.guard/aws_iam_role_unrestricted_secretsmanager    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_unrestricted_secretsmanager
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+role-no-unrestricted-secretsmanager.guard/aws_iam_role_unrestricted_secretsmanager    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_unrestricted_secretsmanager
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+role-no-unrestricted-secretsmanager.guard/aws_iam_role_unrestricted_secretsmanager    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_role_unrestricted_secretsmanager
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+user-no-direct-attached-policy.guard/aws_iam_user_attached_policies    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_attached_policies
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+user-no-direct-attached-policy.guard/aws_iam_user_attached_policies    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_attached_policies
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+user-no-direct-attached-policy.guard/aws_iam_user_attached_policies    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_attached_policies
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+user-no-sensitive-iam.guard/aws_iam_user_no_sensitive_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_no_sensitive_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+user-no-sensitive-iam.guard/aws_iam_user_no_sensitive_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_no_sensitive_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+user-no-sensitive-iam.guard/aws_iam_user_no_sensitive_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_no_sensitive_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-assume-role.guard/aws_iam_user_no_unrestricted_assume_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_no_unrestricted_assume_role
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-assume-role.guard/aws_iam_user_no_unrestricted_assume_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_no_unrestricted_assume_role
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-assume-role.guard/aws_iam_user_no_unrestricted_assume_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_no_unrestricted_assume_role
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-lambda-invoke.guard/aws_iam_user_unrestricted_lambda_invoke    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_unrestricted_lambda_invoke
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-lambda-invoke.guard/aws_iam_user_unrestricted_lambda_invoke    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_unrestricted_lambda_invoke
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-lambda-invoke.guard/aws_iam_user_unrestricted_lambda_invoke    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_unrestricted_lambda_invoke
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-pass-role.guard/aws_iam_user_unrestriced_pass_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_unrestriced_pass_role
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-pass-role.guard/aws_iam_user_unrestriced_pass_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_unrestriced_pass_role
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-pass-role.guard/aws_iam_user_unrestriced_pass_role    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_unrestriced_pass_role
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-s3-full.guard/aws_iam_user_s3_full_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_s3_full_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-s3-full.guard/aws_iam_user_s3_full_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_s3_full_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-s3-full.guard/aws_iam_user_s3_full_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_s3_full_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-s3-read.guard/aws_iam_user_s3_read_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_s3_read_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-s3-read.guard/aws_iam_user_s3_read_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_s3_read_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-s3-read.guard/aws_iam_user_s3_read_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_s3_read_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-secretsmanager.guard/aws_iam_user_unrestricted_secretsmanager    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_unrestricted_secretsmanager
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-secretsmanager.guard/aws_iam_user_unrestricted_secretsmanager    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_unrestricted_secretsmanager
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+user-no-unrestricted-secretsmanager.guard/aws_iam_user_unrestricted_secretsmanager    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_iam_user_unrestricted_secretsmanager
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+key-has-policy.guard/aws_kms_key_has_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_kms_key_has_policy
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+key-has-policy.guard/aws_kms_key_has_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_kms_key_has_policy
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+key-has-policy.guard/aws_kms_key_has_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_kms_key_has_policy
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+key-policy-no-not-action.guard/aws_kms_key_policy_not_action_used    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_kms_key_policy_not_action_used
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+key-policy-no-not-action.guard/aws_kms_key_policy_not_action_used    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_kms_key_policy_not_action_used
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+key-policy-no-not-action.guard/aws_kms_key_policy_not_action_used    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_kms_key_policy_not_action_used
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+key-policy-no-wildcard-action.guard/aws_kms_key_policy_action_does_not_have_wildcards    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_kms_key_policy_action_does_not_have_wildcards
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+key-policy-no-wildcard-action.guard/aws_kms_key_policy_action_does_not_have_wildcards    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_kms_key_policy_action_does_not_have_wildcards
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+key-policy-no-wildcard-action.guard/aws_kms_key_policy_action_does_not_have_wildcards    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_kms_key_policy_action_does_not_have_wildcards
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+key-policy-no-wildcard-principal.guard/aws_kms_key_policy_principal_does_not_have_wildcards    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_kms_key_policy_principal_does_not_have_wildcards
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+key-policy-no-wildcard-principal.guard/aws_kms_key_policy_principal_does_not_have_wildcards    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_kms_key_policy_principal_does_not_have_wildcards
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+key-policy-no-wildcard-principal.guard/aws_kms_key_policy_principal_does_not_have_wildcards    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_kms_key_policy_principal_does_not_have_wildcards
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+key-rotation-enabled.guard/aws_kms_key_rotation_must_be_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_kms_key_rotation_must_be_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+key-rotation-enabled.guard/aws_kms_key_rotation_must_be_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_kms_key_rotation_must_be_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+key-rotation-enabled.guard/aws_kms_key_rotation_must_be_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_kms_key_rotation_must_be_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+function-deprecated-runtime.guard/aws_lambda_function_must_not_use_deprecated_runtime    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_must_not_use_deprecated_runtime
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+function-deprecated-runtime.guard/aws_lambda_function_must_not_use_deprecated_runtime    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_must_not_use_deprecated_runtime
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+function-deprecated-runtime.guard/aws_lambda_function_must_not_use_deprecated_runtime    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_must_not_use_deprecated_runtime
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+function-environment-encrypted.guard/aws_lambda_function_env_vars_must_be_encrypted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_env_vars_must_be_encrypted
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+function-environment-encrypted.guard/aws_lambda_function_env_vars_must_be_encrypted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_env_vars_must_be_encrypted
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+function-environment-encrypted.guard/aws_lambda_function_env_vars_must_be_encrypted    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_env_vars_must_be_encrypted
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+function-in-vpc.guard/aws_lambda_function_should_be_launched_in_vpc    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_should_be_launched_in_vpc
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+function-in-vpc.guard/aws_lambda_function_should_be_launched_in_vpc    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_should_be_launched_in_vpc
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+function-in-vpc.guard/aws_lambda_function_should_be_launched_in_vpc    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_should_be_launched_in_vpc
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+function-no-shared-iam-roles.guard/aws_lambda_function_no_shared_iam_roles    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_no_shared_iam_roles
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+function-no-shared-iam-roles.guard/aws_lambda_function_no_shared_iam_roles    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_no_shared_iam_roles
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+function-no-shared-iam-roles.guard/aws_lambda_function_no_shared_iam_roles    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_no_shared_iam_roles
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+function-sensitive-data-env-var.guard/aws_lambda_function_sensitive_data_env_var    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_sensitive_data_env_var
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+function-sensitive-data-env-var.guard/aws_lambda_function_sensitive_data_env_var    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_sensitive_data_env_var
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+function-sensitive-data-env-var.guard/aws_lambda_function_sensitive_data_env_var    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_sensitive_data_env_var
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+function-tracing-enabled.guard/aws_lambda_function_should_have_tracing_configured    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_should_have_tracing_configured
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+function-tracing-enabled.guard/aws_lambda_function_should_have_tracing_configured    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_should_have_tracing_configured
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+function-tracing-enabled.guard/aws_lambda_function_should_have_tracing_configured    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_lambda_function_should_have_tracing_configured
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+log-group-encrypted.guard/aws_log_group_customer_managed_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_log_group_customer_managed_cmk
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+log-group-encrypted.guard/aws_log_group_customer_managed_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_log_group_customer_managed_cmk
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+log-group-encrypted.guard/aws_log_group_customer_managed_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_log_group_customer_managed_cmk
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+log-group-retention-period.guard/aws_log_group_minimum_retention_period    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_log_group_minimum_retention_period
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+log-group-retention-period.guard/aws_log_group_minimum_retention_period    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_log_group_minimum_retention_period
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+log-group-retention-period.guard/aws_log_group_minimum_retention_period    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_log_group_minimum_retention_period
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-broker-logs-enabled.guard/aws_msk_broker_logs_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_msk_broker_logs_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-broker-logs-enabled.guard/aws_msk_broker_logs_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_msk_broker_logs_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-broker-logs-enabled.guard/aws_msk_broker_logs_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_msk_broker_logs_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-broker-to-broker-encryption-enabled.guard/aws_msk_broker_to_broker_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_msk_broker_to_broker_encryption_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-broker-to-broker-encryption-enabled.guard/aws_msk_broker_to_broker_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_msk_broker_to_broker_encryption_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-broker-to-broker-encryption-enabled.guard/aws_msk_broker_to_broker_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_msk_broker_to_broker_encryption_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-client-to-broker-encryption-enabled.guard/aws_msk_cluster_client_to_broker_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_msk_cluster_client_to_broker_encryption_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-client-to-broker-encryption-enabled.guard/aws_msk_cluster_client_to_broker_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_msk_cluster_client_to_broker_encryption_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-client-to-broker-encryption-enabled.guard/aws_msk_cluster_client_to_broker_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_msk_cluster_client_to_broker_encryption_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-iam-auth.guard/aws_msk_iam_authentication    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_msk_iam_authentication
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-iam-auth.guard/aws_msk_iam_authentication    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_msk_iam_authentication
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-iam-auth.guard/aws_msk_iam_authentication    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_msk_iam_authentication
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+dbcluster-audit-logging.guard/aws_neptune_dbcluster_audit_logs_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_audit_logs_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+dbcluster-audit-logging.guard/aws_neptune_dbcluster_audit_logs_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_audit_logs_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+dbcluster-audit-logging.guard/aws_neptune_dbcluster_audit_logs_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_audit_logs_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+dbcluster-backup-retention-configured.guard/aws_neptune_dbcluster_backup_retention_configured    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_backup_retention_configured
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+dbcluster-backup-retention-configured.guard/aws_neptune_dbcluster_backup_retention_configured    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_backup_retention_configured
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+dbcluster-backup-retention-configured.guard/aws_neptune_dbcluster_backup_retention_configured    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_backup_retention_configured
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+dbcluster-deletion-protection-enabled.guard/aws_neptune_dbcluster_deletion_protection_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_deletion_protection_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+dbcluster-deletion-protection-enabled.guard/aws_neptune_dbcluster_deletion_protection_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_deletion_protection_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+dbcluster-deletion-protection-enabled.guard/aws_neptune_dbcluster_deletion_protection_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_deletion_protection_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+dbcluster-encryption-at-rest.guard/aws_neptune_dbcluster_encryption_at_rest    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_encryption_at_rest
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+dbcluster-encryption-at-rest.guard/aws_neptune_dbcluster_encryption_at_rest    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_encryption_at_rest
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+dbcluster-encryption-at-rest.guard/aws_neptune_dbcluster_encryption_at_rest    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_encryption_at_rest
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+dbcluster-iam-auth.guard/aws_neptune_dbcluster_iam_auth_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_iam_auth_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+dbcluster-iam-auth.guard/aws_neptune_dbcluster_iam_auth_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_iam_auth_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+dbcluster-iam-auth.guard/aws_neptune_dbcluster_iam_auth_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_iam_auth_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+dbcluster-multi-az-enabled.guard/aws_neptune_dbcluster_multi_az_configured    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_multi_az_configured
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+dbcluster-multi-az-enabled.guard/aws_neptune_dbcluster_multi_az_configured    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_multi_az_configured
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+dbcluster-multi-az-enabled.guard/aws_neptune_dbcluster_multi_az_configured    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_neptune_dbcluster_multi_az_configured
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+firewall-deletion-protection.guard/aws_networkfirewall_firewall_deletion_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_networkfirewall_firewall_deletion_protection
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+firewall-deletion-protection.guard/aws_networkfirewall_firewall_deletion_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_networkfirewall_firewall_deletion_protection
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+firewall-deletion-protection.guard/aws_networkfirewall_firewall_deletion_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_networkfirewall_firewall_deletion_protection
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+firewall-subnet-change-protection.guard/aws_networkfirewall_firewall_subnet_change_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_networkfirewall_firewall_subnet_change_protection
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+firewall-subnet-change-protection.guard/aws_networkfirewall_firewall_subnet_change_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_networkfirewall_firewall_subnet_change_protection
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+firewall-subnet-change-protection.guard/aws_networkfirewall_firewall_subnet_change_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_networkfirewall_firewall_subnet_change_protection
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+domain-encrypted-at-rest.guard/aws_opensearch_domain_encrypted_storage    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_encrypted_storage
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+domain-encrypted-at-rest.guard/aws_opensearch_domain_encrypted_storage    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_encrypted_storage
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+domain-encrypted-at-rest.guard/aws_opensearch_domain_encrypted_storage    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_encrypted_storage
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+domain-has-dedicated-master.guard/aws_opensearch_domain_dedicated_master    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_dedicated_master
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+domain-has-dedicated-master.guard/aws_opensearch_domain_dedicated_master    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_dedicated_master
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+domain-has-dedicated-master.guard/aws_opensearch_domain_dedicated_master    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_dedicated_master
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+domain-in-vpc.guard/aws_opensearch_domain_in_vpc    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_in_vpc
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+domain-in-vpc.guard/aws_opensearch_domain_in_vpc    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_in_vpc
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+domain-in-vpc.guard/aws_opensearch_domain_in_vpc    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_in_vpc
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+domain-logs-enabled.guard/aws_opensearch_domain_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_logging_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+domain-logs-enabled.guard/aws_opensearch_domain_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_logging_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+domain-logs-enabled.guard/aws_opensearch_domain_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_logging_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+domain-node-encryption.guard/aws_opensearch_domain_encrypted_intransit    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_encrypted_intransit
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+domain-node-encryption.guard/aws_opensearch_domain_encrypted_intransit    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_encrypted_intransit
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+domain-node-encryption.guard/aws_opensearch_domain_encrypted_intransit    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_encrypted_intransit
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+domain-require-https.guard/aws_opensearch_domain_require_https    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_require_https
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+domain-require-https.guard/aws_opensearch_domain_require_https    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_require_https
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+domain-require-https.guard/aws_opensearch_domain_require_https    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_require_https
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+domain-zone-awareness.guard/aws_opensearch_domain_zone_awareness    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_zone_awareness
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+domain-zone-awareness.guard/aws_opensearch_domain_zone_awareness    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_zone_awareness
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+domain-zone-awareness.guard/aws_opensearch_domain_zone_awareness    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_opensearch_domain_zone_awareness
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-allow-upgrades.guard/aws_redshift_cluster_allow_upgrades    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_allow_upgrades
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-allow-upgrades.guard/aws_redshift_cluster_allow_upgrades    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_allow_upgrades
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-allow-upgrades.guard/aws_redshift_cluster_allow_upgrades    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_allow_upgrades
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-audit-logging-enabled.guard/aws_redshift_cluster_audit_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_audit_logging_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-audit-logging-enabled.guard/aws_redshift_cluster_audit_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_audit_logging_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-audit-logging-enabled.guard/aws_redshift_cluster_audit_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_audit_logging_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-backup-enabled.guard/aws_redshift_cluster_backup_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_backup_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-backup-enabled.guard/aws_redshift_cluster_backup_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_backup_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-backup-enabled.guard/aws_redshift_cluster_backup_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_backup_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-encryption-enabled.guard/aws_redshift_cluster_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_encryption_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-encryption-enabled.guard/aws_redshift_cluster_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_encryption_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-encryption-enabled.guard/aws_redshift_cluster_encryption_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_encryption_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-encryption-kms-enabled.guard/aws_redshift_cluster_encryption_kms_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_encryption_kms_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-encryption-kms-enabled.guard/aws_redshift_cluster_encryption_kms_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_encryption_kms_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-encryption-kms-enabled.guard/aws_redshift_cluster_encryption_kms_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_encryption_kms_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-enhanced-vpc-routing.guard/aws_redshift_cluster_enhanced_vpc_routing_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_enhanced_vpc_routing_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-enhanced-vpc-routing.guard/aws_redshift_cluster_enhanced_vpc_routing_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_enhanced_vpc_routing_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-enhanced-vpc-routing.guard/aws_redshift_cluster_enhanced_vpc_routing_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_enhanced_vpc_routing_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-in-vpc.guard/aws_redshift_cluster_in_vpc    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_in_vpc
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-in-vpc.guard/aws_redshift_cluster_in_vpc    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_in_vpc
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-in-vpc.guard/aws_redshift_cluster_in_vpc    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_in_vpc
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-maintenance-configured.guard/aws_redshift_cluster_maintenance_configured    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_maintenance_configured
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-maintenance-configured.guard/aws_redshift_cluster_maintenance_configured    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_maintenance_configured
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-maintenance-configured.guard/aws_redshift_cluster_maintenance_configured    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_maintenance_configured
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-no-public-access.guard/aws_redshift_cluster_no_public_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_no_public_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-no-public-access.guard/aws_redshift_cluster_no_public_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_no_public_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-no-public-access.guard/aws_redshift_cluster_no_public_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_no_public_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+cluster-non-default-port.guard/aws_redshift_cluster_non_default_port    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_non_default_port
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+cluster-non-default-port.guard/aws_redshift_cluster_non_default_port    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_non_default_port
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+cluster-non-default-port.guard/aws_redshift_cluster_non_default_port    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_redshift_cluster_non_default_port
+compliant: []
+Parsing error handling rule file = cluster-non-default-username.guard, Error = Parser Error when parsing Parsing Error Error parsing file cluster-non-default-username.guard at line 10 at column 2, when handling , fragment 
+
+---
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+hosted-zone-logging-enabled.guard/aws_route53_hosted_zone_cloudwatch_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_route53_hosted_zone_cloudwatch_logging_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+hosted-zone-logging-enabled.guard/aws_route53_hosted_zone_cloudwatch_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_route53_hosted_zone_cloudwatch_logging_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+hosted-zone-logging-enabled.guard/aws_route53_hosted_zone_cloudwatch_logging_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_route53_hosted_zone_cloudwatch_logging_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+resolver-firewall-mutation-protection.guard/aws_route53_firewall_rule_group_association_mutation_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_route53_firewall_rule_group_association_mutation_protection
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+resolver-firewall-mutation-protection.guard/aws_route53_firewall_rule_group_association_mutation_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_route53_firewall_rule_group_association_mutation_protection
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+resolver-firewall-mutation-protection.guard/aws_route53_firewall_rule_group_association_mutation_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_route53_firewall_rule_group_association_mutation_protection
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+bucket-access-logging-enabled.guard/aws_s3_bucket_access_logging    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_s3_bucket_access_logging
+compliant: []
+s3-template.json Status = FAIL
+FAILED rules
+bucket-access-logging-enabled.guard/aws_s3_bucket_access_logging    FAIL
+---
+---
+name: ""
+metadata: {}
+status: FAIL
+not_compliant:
+  - Rule:
+      name: aws_s3_bucket_access_logging
+      metadata: {}
+      messages:
+        custom_message: ~
+        error_message: ~
+      checks:
+        - Clause:
+            Unary:
+              context: " LoggingConfiguration EXISTS  "
+              messages:
+                custom_message: Logging is not configured
+                error_message: "Check was not compliant as property [LoggingConfiguration] is missing. Value traversed to [Path=/Resources/S3Bucket/Properties[L:7,C:20] Value={\"AccessControl\":\"PublicRead\",\"WebsiteConfiguration\":{\"IndexDocument\":\"index.html\",\"ErrorDocument\":\"error.html\"}}]."
+              check:
+                UnResolved:
+                  value:
+                    traversed_to:
+                      path: /Resources/S3Bucket/Properties
+                      value:
+                        AccessControl: PublicRead
+                        WebsiteConfiguration:
+                          IndexDocument: index.html
+                          ErrorDocument: error.html
+                    remaining_query: LoggingConfiguration
+                    reason: "Could not find key LoggingConfiguration inside struct at path /Resources/S3Bucket/Properties[L:7,C:20]"
+                  comparison:
+                    - Exists
+                    - false
+not_applicable: []
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+bucket-access-logging-enabled.guard/aws_s3_bucket_access_logging    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_s3_bucket_access_logging
+compliant: []
+Parsing error handling rule file = bucket-has-block-public-config.guard, Error = Parser Error when parsing Parsing Error Error parsing file bucket-has-block-public-config.guard at line 38 at column 6, when handling , fragment 
+
+---
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+bucket-has-deletion-protection.guard/aws_s3_bucket_deletion_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_s3_bucket_deletion_protection
+compliant: []
+s3-template.json Status = PASS
+PASS rules
+bucket-has-deletion-protection.guard/aws_s3_bucket_deletion_protection    PASS
+---
+---
+name: ""
+metadata: {}
+status: PASS
+not_compliant: []
+not_applicable: []
+compliant:
+  - aws_s3_bucket_deletion_protection
+rds-template.json Status = SKIP
+SKIP rules
+bucket-has-deletion-protection.guard/aws_s3_bucket_deletion_protection    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_s3_bucket_deletion_protection
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+bucket-requires-tls.guard/aws_s3_bucket_with_tls_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_s3_bucket_with_tls_policy
+compliant: []
+s3-template.json Status = FAIL
+FAILED rules
+bucket-requires-tls.guard/aws_s3_bucket_with_tls_policy    FAIL
+---
+---
+name: ""
+metadata: {}
+status: FAIL
+not_compliant:
+  - Rule:
+      name: aws_s3_bucket_with_tls_policy
+      metadata: {}
+      messages:
+        custom_message: ~
+        error_message: ~
+      checks:
+        - Clause:
+            Unary:
+              context: " %secure_bucket_policies not EMPTY  "
+              messages:
+                custom_message: ""
+                error_message: "Check was not compliant as variable in context [ %secure_bucket_policies not EMPTY  ] was not empty"
+              check:
+                UnResolvedContext: " %secure_bucket_policies not EMPTY  "
+not_applicable: []
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+bucket-requires-tls.guard/aws_s3_bucket_with_tls_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_s3_bucket_with_tls_policy
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+bucket-uses-cmk.guard/aws_s3_bucket_sse_customer_managed_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_s3_bucket_sse_customer_managed_cmk
+compliant: []
+s3-template.json Status = FAIL
+FAILED rules
+bucket-uses-cmk.guard/aws_s3_bucket_sse_customer_managed_cmk    FAIL
+---
+---
+name: ""
+metadata: {}
+status: FAIL
+not_compliant:
+  - Rule:
+      name: aws_s3_bucket_sse_customer_managed_cmk
+      metadata: {}
+      messages:
+        custom_message: ~
+        error_message: ~
+      checks:
+        - Clause:
+            Unary:
+              context: " %encryption not EMPTY  "
+              messages:
+                custom_message: ""
+                error_message: "Check was not compliant as property [BucketEncryption] is missing. Value traversed to [Path=/Resources/S3Bucket/Properties[L:7,C:20] Value={\"AccessControl\":\"PublicRead\",\"WebsiteConfiguration\":{\"IndexDocument\":\"index.html\",\"ErrorDocument\":\"error.html\"}}]."
+              check:
+                UnResolved:
+                  value:
+                    traversed_to:
+                      path: /Resources/S3Bucket/Properties
+                      value:
+                        AccessControl: PublicRead
+                        WebsiteConfiguration:
+                          IndexDocument: index.html
+                          ErrorDocument: error.html
+                    remaining_query: BucketEncryption
+                    reason: "Could not find key BucketEncryption inside struct at path /Resources/S3Bucket/Properties[L:7,C:20]"
+                  comparison:
+                    - Empty
+                    - true
+        - Block:
+            context: "GuardBlockAccessClause#Location[file:bucket-uses-cmk.guard, line:32, column:5]"
+            messages:
+              custom_message: ""
+              error_message: "Check was not compliant as property [BucketEncryption] is missing. Value traversed to [Path=/Resources/S3Bucket/Properties[L:7,C:20] Value={\"AccessControl\":\"PublicRead\",\"WebsiteConfiguration\":{\"IndexDocument\":\"index.html\",\"ErrorDocument\":\"error.html\"}}]"
+            unresolved:
+              traversed_to:
+                path: /Resources/S3Bucket/Properties
+                value:
+                  AccessControl: PublicRead
+                  WebsiteConfiguration:
+                    IndexDocument: index.html
+                    ErrorDocument: error.html
+              remaining_query: BucketEncryption
+              reason: "Could not find key BucketEncryption inside struct at path /Resources/S3Bucket/Properties[L:7,C:20]"
+not_applicable: []
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+bucket-uses-cmk.guard/aws_s3_bucket_sse_customer_managed_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_s3_bucket_sse_customer_managed_cmk
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+bucket-versioning-enabled.guard/aws_s3_bucket_versioning    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_s3_bucket_versioning
+compliant: []
+s3-template.json Status = FAIL
+FAILED rules
+bucket-versioning-enabled.guard/aws_s3_bucket_versioning    FAIL
+---
+---
+name: ""
+metadata: {}
+status: FAIL
+not_compliant:
+  - Rule:
+      name: aws_s3_bucket_versioning
+      metadata: {}
+      messages:
+        custom_message: ~
+        error_message: ~
+      checks:
+        - Clause:
+            Unary:
+              context: " VersioningConfiguration EXISTS  "
+              messages:
+                custom_message: Bucket versioning is not configured
+                error_message: "Check was not compliant as property [VersioningConfiguration] is missing. Value traversed to [Path=/Resources/S3Bucket/Properties[L:7,C:20] Value={\"AccessControl\":\"PublicRead\",\"WebsiteConfiguration\":{\"IndexDocument\":\"index.html\",\"ErrorDocument\":\"error.html\"}}]."
+              check:
+                UnResolved:
+                  value:
+                    traversed_to:
+                      path: /Resources/S3Bucket/Properties
+                      value:
+                        AccessControl: PublicRead
+                        WebsiteConfiguration:
+                          IndexDocument: index.html
+                          ErrorDocument: error.html
+                    remaining_query: VersioningConfiguration
+                    reason: "Could not find key VersioningConfiguration inside struct at path /Resources/S3Bucket/Properties[L:7,C:20]"
+                  comparison:
+                    - Exists
+                    - false
+not_applicable: []
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+bucket-versioning-enabled.guard/aws_s3_bucket_versioning    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_s3_bucket_versioning
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+endpoint-encrypted.guard/aws_sagemaker_endpoint_configuration_encryption_at_rest_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_endpoint_configuration_encryption_at_rest_enabled
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+endpoint-encrypted.guard/aws_sagemaker_endpoint_configuration_encryption_at_rest_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_endpoint_configuration_encryption_at_rest_enabled
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+endpoint-encrypted.guard/aws_sagemaker_endpoint_configuration_encryption_at_rest_enabled    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_endpoint_configuration_encryption_at_rest_enabled
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+model-in-vpc.guard/aws_sagemaker_model_vpc_settings    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_model_vpc_settings
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+model-in-vpc.guard/aws_sagemaker_model_vpc_settings    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_model_vpc_settings
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+model-in-vpc.guard/aws_sagemaker_model_vpc_settings    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_model_vpc_settings
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+model-network-isolation.guard/aws_sagemaker_model_network_isolation    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_model_network_isolation
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+model-network-isolation.guard/aws_sagemaker_model_network_isolation    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_model_network_isolation
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+model-network-isolation.guard/aws_sagemaker_model_network_isolation    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_model_network_isolation
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+notebook-instance-in-vpc.guard/aws_sagemaker_instance_vpc_configured    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_instance_vpc_configured
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+notebook-instance-in-vpc.guard/aws_sagemaker_instance_vpc_configured    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_instance_vpc_configured
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+notebook-instance-in-vpc.guard/aws_sagemaker_instance_vpc_configured    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_instance_vpc_configured
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+notebook-instance-no-direct-internet.guard/aws_sagemaker_instance_direct_internet_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_instance_direct_internet_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+notebook-instance-no-direct-internet.guard/aws_sagemaker_instance_direct_internet_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_instance_direct_internet_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+notebook-instance-no-direct-internet.guard/aws_sagemaker_instance_direct_internet_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_instance_direct_internet_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+notebook-instance-root-access-disabled.guard/aws_sagemaker_instance_root_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_instance_root_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+notebook-instance-root-access-disabled.guard/aws_sagemaker_instance_root_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_instance_root_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+notebook-instance-root-access-disabled.guard/aws_sagemaker_instance_root_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_instance_root_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+notebook-instance-storage-encrypted.guard/aws_sagemaker_instance_storage_encryption    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_instance_storage_encryption
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+notebook-instance-storage-encrypted.guard/aws_sagemaker_instance_storage_encryption    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_instance_storage_encryption
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+notebook-instance-storage-encrypted.guard/aws_sagemaker_instance_storage_encryption    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sagemaker_instance_storage_encryption
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+resource-policy-block-public-access.guard/aws_secretsmanager_resource_policy_block_public_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_secretsmanager_resource_policy_block_public_access
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+resource-policy-block-public-access.guard/aws_secretsmanager_resource_policy_block_public_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_secretsmanager_resource_policy_block_public_access
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+resource-policy-block-public-access.guard/aws_secretsmanager_resource_policy_block_public_access    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_secretsmanager_resource_policy_block_public_access
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+secret-cross-region-replication.guard/aws_secretsmanager_secret_cross_region_replication    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_secretsmanager_secret_cross_region_replication
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+secret-cross-region-replication.guard/aws_secretsmanager_secret_cross_region_replication    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_secretsmanager_secret_cross_region_replication
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+secret-cross-region-replication.guard/aws_secretsmanager_secret_cross_region_replication    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_secretsmanager_secret_cross_region_replication
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+secret-has-rotation-schedule.guard/aws_secretsmanager_secret_has_rotation_schedule    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_secretsmanager_secret_has_rotation_schedule
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+secret-has-rotation-schedule.guard/aws_secretsmanager_secret_has_rotation_schedule    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_secretsmanager_secret_has_rotation_schedule
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+secret-has-rotation-schedule.guard/aws_secretsmanager_secret_has_rotation_schedule    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_secretsmanager_secret_has_rotation_schedule
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+secret-no-hardcoded.guard/aws_secretsmanager_secret_no_hardcoded_secrets    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_secretsmanager_secret_no_hardcoded_secrets
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+secret-no-hardcoded.guard/aws_secretsmanager_secret_no_hardcoded_secrets    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_secretsmanager_secret_no_hardcoded_secrets
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+secret-no-hardcoded.guard/aws_secretsmanager_secret_no_hardcoded_secrets    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_secretsmanager_secret_no_hardcoded_secrets
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+secret-uses-cmk.guard/aws_secretsmanager_secret_encrypted_kms_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_secretsmanager_secret_encrypted_kms_cmk
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+secret-uses-cmk.guard/aws_secretsmanager_secret_encrypted_kms_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_secretsmanager_secret_encrypted_kms_cmk
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+secret-uses-cmk.guard/aws_secretsmanager_secret_encrypted_kms_cmk    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_secretsmanager_secret_encrypted_kms_cmk
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+subscription-protocol-allowlist.guard/aws_sns_subscription_protocol_allowlist    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sns_subscription_protocol_allowlist
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+subscription-protocol-allowlist.guard/aws_sns_subscription_protocol_allowlist    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sns_subscription_protocol_allowlist
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+subscription-protocol-allowlist.guard/aws_sns_subscription_protocol_allowlist    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sns_subscription_protocol_allowlist
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+topic-policy-no-notaction.guard/aws_sns_topic_policy_not_action_used    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sns_topic_policy_not_action_used
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+topic-policy-no-notaction.guard/aws_sns_topic_policy_not_action_used    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sns_topic_policy_not_action_used
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+topic-policy-no-notaction.guard/aws_sns_topic_policy_not_action_used    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sns_topic_policy_not_action_used
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+topic-policy-no-wildcard-action.guard/aws_sns_topic_policy_does_not_have_wildcard_actions    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sns_topic_policy_does_not_have_wildcard_actions
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+topic-policy-no-wildcard-action.guard/aws_sns_topic_policy_does_not_have_wildcard_actions    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sns_topic_policy_does_not_have_wildcard_actions
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+topic-policy-no-wildcard-action.guard/aws_sns_topic_policy_does_not_have_wildcard_actions    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sns_topic_policy_does_not_have_wildcard_actions
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+topic-policy-no-wildcard-principal.guard/aws_sns_topic_policy_principal_does_not_have_wildcards    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sns_topic_policy_principal_does_not_have_wildcards
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+topic-policy-no-wildcard-principal.guard/aws_sns_topic_policy_principal_does_not_have_wildcards    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sns_topic_policy_principal_does_not_have_wildcards
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+topic-policy-no-wildcard-principal.guard/aws_sns_topic_policy_principal_does_not_have_wildcards    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sns_topic_policy_principal_does_not_have_wildcards
+compliant: []
+Other
+sqs-template.json Status = FAIL
+FAILED rules
+topic-uses-kms.guard/aws_sns_topics_must_be_encrypted_using_kms    FAIL
+---
+---
+name: ""
+metadata: {}
+status: FAIL
+not_compliant:
+  - Rule:
+      name: aws_sns_topics_must_be_encrypted_using_kms
+      metadata: {}
+      messages:
+        custom_message: ~
+        error_message: ~
+      checks:
+        - Clause:
+            Unary:
+              context: " KmsMasterKeyId EXISTS  "
+              messages:
+                custom_message: SNS Topic - must be encrypted using KMS
+                error_message: "Check was not compliant as property [KmsMasterKeyId] is missing. Value traversed to [Path=/Resources/AlarmTopic/Properties[L:19,C:20] Value={\"Subscription\":[{\"Endpoint\":{\"Ref\":\"AlarmEMail\"},\"Protocol\":\"email\"}]}]."
+              check:
+                UnResolved:
+                  value:
+                    traversed_to:
+                      path: /Resources/AlarmTopic/Properties
+                      value:
+                        Subscription:
+                          - Endpoint:
+                              Ref: AlarmEMail
+                            Protocol: email
+                    remaining_query: KmsMasterKeyId
+                    reason: "Could not find key KmsMasterKeyId inside struct at path /Resources/AlarmTopic/Properties[L:19,C:20]"
+                  comparison:
+                    - Exists
+                    - false
+        - Clause:
+            Binary:
+              context: " KmsMasterKeyId not IN  [\"alias/aws/sns\"]"
+              messages:
+                custom_message: SNS Topic - Customer managed KMS Key should be provided for Topic encryption
+                error_message: "Check was not compliant as property [KmsMasterKeyId] to compare from is missing. Value traversed to [Path=/Resources/AlarmTopic/Properties[L:19,C:20] Value={\"Subscription\":[{\"Endpoint\":{\"Ref\":\"AlarmEMail\"},\"Protocol\":\"email\"}]}]."
+              check:
+                UnResolved:
+                  value:
+                    traversed_to:
+                      path: /Resources/AlarmTopic/Properties
+                      value:
+                        Subscription:
+                          - Endpoint:
+                              Ref: AlarmEMail
+                            Protocol: email
+                    remaining_query: KmsMasterKeyId
+                    reason: "Could not find key KmsMasterKeyId inside struct at path /Resources/AlarmTopic/Properties[L:19,C:20]"
+                  comparison:
+                    - In
+                    - true
+not_applicable: []
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+topic-uses-kms.guard/aws_sns_topics_must_be_encrypted_using_kms    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sns_topics_must_be_encrypted_using_kms
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+topic-uses-kms.guard/aws_sns_topics_must_be_encrypted_using_kms    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sns_topics_must_be_encrypted_using_kms
+compliant: []
+Other
+sqs-template.json Status = FAIL
+FAILED rules
+topic-uses-tls.guard/aws_sns_topic_with_tls_policy    FAIL
+---
+---
+name: ""
+metadata: {}
+status: FAIL
+not_compliant:
+  - Rule:
+      name: aws_sns_topic_with_tls_policy
+      metadata: {}
+      messages:
+        custom_message: ~
+        error_message: ~
+      checks:
+        - Clause:
+            Unary:
+              context: " %aws_sns_topic_policy_resources not EMPTY  "
+              messages:
+                custom_message: ""
+                error_message: "Check was not compliant as variable in context [ %aws_sns_topic_policy_resources not EMPTY  ] was not empty"
+              check:
+                UnResolvedContext: " %aws_sns_topic_policy_resources not EMPTY  "
+not_applicable: []
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+topic-uses-tls.guard/aws_sns_topic_with_tls_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sns_topic_with_tls_policy
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+topic-uses-tls.guard/aws_sns_topic_with_tls_policy    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sns_topic_with_tls_policy
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+queue-policy-no-notaction.guard/aws_sqs_queue_policy_not_action_used    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sqs_queue_policy_not_action_used
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+queue-policy-no-notaction.guard/aws_sqs_queue_policy_not_action_used    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sqs_queue_policy_not_action_used
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+queue-policy-no-notaction.guard/aws_sqs_queue_policy_not_action_used    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sqs_queue_policy_not_action_used
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+queue-policy-no-wildcard-action.guard/aws_sqs_queue_policy_does_not_have_wildcard_actions    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sqs_queue_policy_does_not_have_wildcard_actions
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+queue-policy-no-wildcard-action.guard/aws_sqs_queue_policy_does_not_have_wildcard_actions    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sqs_queue_policy_does_not_have_wildcard_actions
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+queue-policy-no-wildcard-action.guard/aws_sqs_queue_policy_does_not_have_wildcard_actions    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sqs_queue_policy_does_not_have_wildcard_actions
+compliant: []
+Other
+sqs-template.json Status = SKIP
+SKIP rules
+queue-policy-no-wildcard-principal.guard/aws_sqs_queue_policy_principal_does_not_have_wildcards    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sqs_queue_policy_principal_does_not_have_wildcards
+compliant: []
+s3-template.json Status = SKIP
+SKIP rules
+queue-policy-no-wildcard-principal.guard/aws_sqs_queue_policy_principal_does_not_have_wildcards    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sqs_queue_policy_principal_does_not_have_wildcards
+compliant: []
+rds-template.json Status = SKIP
+SKIP rules
+queue-policy-no-wildcard-principal.guard/aws_sqs_queue_policy_principal_does_not_have_wildcards    SKIP
+---
+---
+name: ""
+metadata: {}
+status: SKIP
+not_compliant: []
+not_applicable:
+  - aws_sqs_queue_policy_principal_does_not_have_wildcards
+compliant: []
+Other
+sqs-template.json Status = PASS
+PASS rules
+webacl-no-classic-acls.guard/aws_waf_webacl_no_classic_acls    PASS
+---
+---
+name: ""
+metadata: {}
+status: PASS
+not_compliant: []
+not_applicable: []
+compliant:
+  - aws_waf_webacl_no_classic_acls
+s3-template.json Status = PASS
+PASS rules
+webacl-no-classic-acls.guard/aws_waf_webacl_no_classic_acls    PASS
+---
+---
+name: ""
+metadata: {}
+status: PASS
+not_compliant: []
+not_applicable: []
+compliant:
+  - aws_waf_webacl_no_classic_acls
+rds-template.json Status = PASS
+PASS rules
+webacl-no-classic-acls.guard/aws_waf_webacl_no_classic_acls    PASS
+---
+---
+name: ""
+metadata: {}
+status: PASS
+not_compliant: []
+not_applicable: []
+compliant:
+  - aws_waf_webacl_no_classic_acls

@@ -1,0 +1,41 @@
+/usr/lib/ruby/gems/3.2.0/gems/cfn-model-0.6.6/lib/cfn-model/parser/cfn_parser.rb:312:in `const_set': nil is not a symbol nor a string (TypeError)
+
+      module_constant.const_set(module_names[2], resource_class)
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-model-0.6.6/lib/cfn-model/parser/cfn_parser.rb:312:in `generate_resource_class_from_type'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-model-0.6.6/lib/cfn-model/parser/cfn_parser.rb:267:in `rescue in class_from_type_name'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-model-0.6.6/lib/cfn-model/parser/cfn_parser.rb:263:in `class_from_type_name'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-model-0.6.6/lib/cfn-model/parser/cfn_parser.rb:166:in `block in transform_hash_into_model_elements_with_numbers'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-model-0.6.6/lib/cfn-model/parser/cfn_parser.rb:165:in `each'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-model-0.6.6/lib/cfn-model/parser/cfn_parser.rb:165:in `transform_hash_into_model_elements_with_numbers'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-model-0.6.6/lib/cfn-model/parser/cfn_parser.rb:86:in `parse_without_parameters'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-model-0.6.6/lib/cfn-model/parser/cfn_parser.rb:43:in `parse'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-nag-0.8.10/lib/cfn-nag/cfn_nag.rb:87:in `audit'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-nag-0.8.10/lib/cfn-nag/cfn_nag.rb:68:in `block in audit_aggregate_across_files'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-nag-0.8.10/lib/cfn-nag/cfn_nag.rb:65:in `each'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-nag-0.8.10/lib/cfn-nag/cfn_nag.rb:65:in `audit_aggregate_across_files'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-nag-0.8.10/lib/cfn-nag/cfn_nag.rb:35:in `audit_aggregate_across_files_and_render_results'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-nag-0.8.10/lib/cfn-nag/cfn_nag_executor.rb:50:in `execute_aggregate_scan'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-nag-0.8.10/lib/cfn-nag/cfn_nag_executor.rb:30:in `scan'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-nag-0.8.10/bin/cfn_nag_scan:11:in `<top (required)>'
+	from /usr/bin/cfn_nag_scan:25:in `load'
+	from /usr/bin/cfn_nag_scan:25:in `<main>'
+/usr/lib/ruby/gems/3.2.0/gems/cfn-model-0.6.6/lib/cfn-model/parser/cfn_parser.rb:264:in `class_from_type_name': uninitialized constant AWS::Something (NameError)
+
+      resource_class = Object.const_get type_name, inherit=false
+                             ^^^^^^^^^^
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-model-0.6.6/lib/cfn-model/parser/cfn_parser.rb:166:in `block in transform_hash_into_model_elements_with_numbers'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-model-0.6.6/lib/cfn-model/parser/cfn_parser.rb:165:in `each'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-model-0.6.6/lib/cfn-model/parser/cfn_parser.rb:165:in `transform_hash_into_model_elements_with_numbers'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-model-0.6.6/lib/cfn-model/parser/cfn_parser.rb:86:in `parse_without_parameters'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-model-0.6.6/lib/cfn-model/parser/cfn_parser.rb:43:in `parse'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-nag-0.8.10/lib/cfn-nag/cfn_nag.rb:87:in `audit'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-nag-0.8.10/lib/cfn-nag/cfn_nag.rb:68:in `block in audit_aggregate_across_files'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-nag-0.8.10/lib/cfn-nag/cfn_nag.rb:65:in `each'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-nag-0.8.10/lib/cfn-nag/cfn_nag.rb:65:in `audit_aggregate_across_files'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-nag-0.8.10/lib/cfn-nag/cfn_nag.rb:35:in `audit_aggregate_across_files_and_render_results'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-nag-0.8.10/lib/cfn-nag/cfn_nag_executor.rb:50:in `execute_aggregate_scan'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-nag-0.8.10/lib/cfn-nag/cfn_nag_executor.rb:30:in `scan'
+	from /usr/lib/ruby/gems/3.2.0/gems/cfn-nag-0.8.10/bin/cfn_nag_scan:11:in `<top (required)>'
+	from /usr/bin/cfn_nag_scan:25:in `load'
+	from /usr/bin/cfn_nag_scan:25:in `<main>'

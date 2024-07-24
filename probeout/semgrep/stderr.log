@@ -1,0 +1,32 @@
+METRICS: Using configs from the Registry (like --config=p/ci) reports pseudonymous rule metrics to semgrep.dev.
+To disable Registry rule metrics, use "--metrics=off".
+Using configs only from local files (like --config=xyz.yml) does not enable metrics.
+
+More information: https://semgrep.dev/docs/metrics
+
+               
+               
+┌─────────────┐
+│ Scan Status │
+└─────────────┘
+  Scanning 12060 files with 2121 Code rules:
+                                                                                                                        
+  Language      Rules   Files          Origin   Rules                                                                   
+ ─────────────────────────────        ────────────────                                                                  
+  <multilang>     239      85          Custom    2121                                                                   
+  json             15      18                                                                                           
+  ts              344       4                                                                                           
+  js              334       1                                                                                           
+                                                                                                                        
+                
+                
+┌──────────────┐
+│ Scan Summary │
+└──────────────┘
+Some files were skipped or only partially analyzed.
+  Scan skipped: 21 files larger than 1.0 MB, 11963 files matching .semgrepignore patterns
+  For a full list of skipped files, run semgrep with the --verbose flag.
+
+Ran 2121 rules on 29 files: 10 findings.
+
+A new version of Semgrep is available. See https://semgrep.dev/docs/upgrading

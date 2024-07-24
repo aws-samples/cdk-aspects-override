@@ -1,0 +1,6 @@
+{
+    "cdk_language": "typescript",
+    "level": "INFO",
+    "message": "Detected a CDK project with AwsSolutionsCheck, however we cannot determine whether the project actually consumes cdk_nag. Please verify manually.",
+    "solutions_checks_found": true
+}
