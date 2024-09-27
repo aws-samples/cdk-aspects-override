@@ -8,10 +8,12 @@ export class RoleNamingConventionAspect implements cdk.IAspect {
   public visit(node: IConstruct): void {
     // Check if the node is an IAM Role
     if (node instanceof Role) {
-
-     // Perform override to add a prefix to the role name
+        
        const cfnRole = node.node.defaultChild as cdk.CfnResource;
-       cfnRole.addPropertyOverride('RoleName', `${this.prefix}-${cfnRole.logicalId}`);
+       const resolvedLogicalId = cdk.Stack.of(node).resolve(cfnRole.logicalId)
+       let roleName = `${this.prefix}-${resolvedLogicalId}`.substring(0, 63)
+      // Perform override to add a prefix to the role name
+       cfnRole.addPropertyOverride('RoleName', roleName);
 
     }
   }
