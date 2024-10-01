@@ -1,0 +1,25 @@
+{
+  "name": "cdk-aspects-override-example",
+  "version": "1.0.0",
+  "bin": {
+    "cdk-aspects-override-example": "bin/app-without-aspects.ts"
+  },
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "cdk": "cdk",
+    "deploy:ExampleStack1WithoutAspects": "cdk --app 'npx ts-node bin/app-without-aspects.ts' deploy --all",
+    "deploy:ExampleStack1WithAspects": "cdk --app 'npx ts-node bin/app-with-aspects.ts' deploy --all"
+  },
+  "devDependencies": {
+    "@types/node": "20.12.7",
+    "aws-cdk": "2.140.0",
+    "ts-node": "10.9.2",
+    "typescript": "5.3.3",
+    "cdk-nag": "2.28.45"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "2.140.0",
+    "constructs": "10.3.0"
+  }
+}
