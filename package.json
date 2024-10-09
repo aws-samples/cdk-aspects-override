@@ -8,8 +8,8 @@
     "build": "tsc",
     "watch": "tsc -w",
     "cdk": "cdk",
-    "deploy:ExampleStack1WithoutAspects": "cdk --app 'npx ts-node bin/app-without-aspects.ts' deploy --all",
-    "deploy:ExampleStack1WithAspects": "cdk --app 'npx ts-node bin/app-with-aspects.ts' deploy --all"
+    "deploy:ExampleAppWithoutAspects": "cdk --app 'npx ts-node bin/app-without-aspects.ts' deploy --all",
+    "deploy:ExampleAppWithAspects": "cdk --app 'npx ts-node bin/app-with-aspects.ts' deploy --all"
   },
   "devDependencies": {
     "@types/node": "20.12.7",
