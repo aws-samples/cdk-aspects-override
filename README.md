@@ -1,6 +1,8 @@
 # CDK Aspects Override
 
-This is an example project for demonstrating the use of CDK Aspects to override infrastructure resource properties using CDK Aspects. This pattern demonstrates how to customize the default names of roles created by CDK constructs. Customizing role names is often required by different users or customers who have constraints based on role names. For example, setting a permission boundary to allow the creation of roles with a certain prefix. In such scenarios, the default role names created by CDK constructs do not meet the required naming conventions and hence need to be changed. This pattern addresses this need by providing a way to specify custom role names, ensuring compliance with organizational policies and constraints.
+This is an example project for demonstrating the use of CDK Aspects to override infrastructure resource properties using CDK Aspects. This pattern demonstrates how to customize the default names of roles created by CDK constructs. Customizing role names is often required by customers needing constraints based on role names. For example, setting a permission boundary to allow the creation of roles with a certain prefix. In such scenarios, the default role names created by CDK constructs do not meet the required naming conventions and hence need to be changed. This pattern addresses this need by providing a way to specify custom role names, ensuring compliance with organizational policies and constraints.
+
+Supporting code for [Customize default role names by using AWS CDK aspects and escape hatches](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/customize-default-role-names-by-using-aws-cdk-aspects-and-escape-hatches.html).
 
 ## Prerequisites
 
